@@ -10,6 +10,10 @@ void putTo2dCharArray(char *p, int w, int i, int j, char value){
 	p[w*j+i] = value;
 }
 
+int rUD(int a, int d){
+	return (a + (d-1))/d;
+}
+
 void fill_sierpinski(char *m, int w, int sx, int sy, int lx, int ly, int l ){
 	if (l==0){
 		printf("Base case. sx:%d, sy:%d, lx:%d, ly:%d \n", sx, sy, lx, ly);	
@@ -22,8 +26,8 @@ void fill_sierpinski(char *m, int w, int sx, int sy, int lx, int ly, int l ){
 			///printf("%d,%d,%d\n",L,stars,tl);
 			while(i<tl){
 				if (i>=L){
-					printf("Filling:%d,%d\n",sx+i, sy+j);
-					putTo2dCharArray(m, w, sx+i, sy+j, 'M');		
+					//printf("Filling:%d,%d\n",sx+i, sy+j);
+					putTo2dCharArray(m, w, sx+i, sy+j, '*');		
 				}
 				i=i+1;			
 			}
@@ -31,8 +35,10 @@ void fill_sierpinski(char *m, int w, int sx, int sy, int lx, int ly, int l ){
 		}
 	}
 	else{		
-		printf("Recursing!");
-		fill_sierpinski(m, w, (lx/4),0,(lx/2),(ly/2),l-1);
+		fill_sierpinski(m, w, sx+rUD(lx,4)  ,sy       ,(lx/2),(ly/2),l-1);
+		fill_sierpinski(m, w, sx            ,sy+(ly/2),(lx/2),(ly/2),l-1);
+		fill_sierpinski(m, w, sx+rUD(lx,2),sy+(ly/2),(lx/2),(ly/2),l-1);
+
 	}
 }
 
@@ -67,8 +73,8 @@ int print_sierpinksi(int h, int l){
 	while(j<h){
 		int i=0;
 		while(i<w){
-			debug();
-			putTo2dCharArray(m,w,i,j,'*');
+			//debug();
+			putTo2dCharArray(m,w,i,j,' ');
 			i=i+1;		
 		}	
 		j=j+1;
