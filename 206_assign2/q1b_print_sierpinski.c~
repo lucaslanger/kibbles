@@ -16,7 +16,7 @@ int rUD(int a, int d){
 
 void fill_sierpinski(char *m, int w, int sx, int sy, int lx, int ly, int l ){
 	if (l==0){
-		printf("Base case. sx:%d, sy:%d, lx:%d, ly:%d \n", sx, sy, lx, ly);	
+		//printf("Base case. sx:%d, sy:%d, lx:%d, ly:%d \n", sx, sy, lx, ly);	
 		int j=0;
 		while(j<ly){
 			int i=0;
@@ -37,7 +37,7 @@ void fill_sierpinski(char *m, int w, int sx, int sy, int lx, int ly, int l ){
 	else{		
 		fill_sierpinski(m, w, sx+rUD(lx,4)  ,sy       ,(lx/2),(ly/2),l-1);
 		fill_sierpinski(m, w, sx            ,sy+(ly/2),(lx/2),(ly/2),l-1);
-		fill_sierpinski(m, w, sx+rUD(lx,2),sy+(ly/2),(lx/2),(ly/2),l-1);
+		fill_sierpinski(m, w, sx+rUD(lx,2)  ,sy+(ly/2),(lx/2),(ly/2),l-1);
 
 	}
 }
@@ -85,19 +85,46 @@ int print_sierpinksi(int h, int l){
 	//What is the difference between using & on arrays and using pointers?
 }
 
+/*
+int ipow(int a, int b){
+	if (b==0){
+		return 1;
+	}
+	else if(b%2==1){
+		return a*ipow(a,b/2);
+	}
+	else{
+		return ipow(a,b/2);
+	}
+}*/
+
 int main(int argc, char *argv[])
 {
 	int height = atoi(argv[1]);
 	int fractal_levels = atoi(argv[2]);
 
+	if (height==0){
+		printf("ERROR:Height must be a non-zero integer");
+		return 0;
+	}
+
 	if (fractal_levels <0){
-		printf("Fractal Levels too low");
+		printf("ERROR:Fractal Levels too small");
 		return 0;	
 	}
 
 	if (height < 1){
-		printf("Height too low");
+		printf("ERROR: Height too small.");
 		return 0;	
+	}
+
+	int bitsToCheck = (1 << fractal_levels)-1;
+	int result = (bitsToCheck & height);
+
+	//printf("%d,%d\n", bitsToCheck,height);
+	if (result!=0){
+		printf("ERROR:Height not divisible by 2^fractal_levels.");
+		return 0;
 	}
 	
 	print_sierpinksi(height, fractal_levels);

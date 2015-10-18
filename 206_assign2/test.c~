@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+ char name[10];
+ printf("Who are you? \n");
+ sscanf("%s",name);
+ printf("Good to meet you, %s.\n",name);
+ return(0);
+}
