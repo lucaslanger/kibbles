@@ -35,7 +35,7 @@ int main(int argc, char *argv[]){
 		}
 		fileContents[p]='\0';
 		if (p==0){
-			printf( "Nothing recieved yet.\n" );
+			printf("Nothing recieved yet.\n");
 		}
 		else{
 			printf("Received %s\n",fileContents);
