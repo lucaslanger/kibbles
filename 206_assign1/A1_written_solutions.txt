@@ -1,0 +1,37 @@
+1.a)
+
+cat: answer.txt: Permission denied
+
+I checked the permission of the file with "ls -l answer.txt" and no user can read, write, or execute
+
+---------- 1 lucas lucas 139 Sep 22 10:45 answer.txt
+
+1.b)
+I then changed the permissions of the file with "chmod 777 answer.txt". This gives all users the permission to read, write, and execute.
+
+Running "cat answer.txt" now gives:
+
+This file contains a message with the answer to part 1. The message is:
+
+"Look what I learned in 206!"
+
+Congratulations if you read this.
+
+
+2.a)
+
+F: Flags
+UID: user id for the person running the process
+PID: process id (a number that identifies the process)
+PPID: id of the process's parent
+PRI: Priority of the process
+NI: Nice value
+VSZ: The amount of memory a process has access to 
+RSS: Real memory usage
+WCHAN: Memory address of the event which the process is waiting on
+STAT: The process state (Ex: running, stopped, dead)
+TTY: The user terminal where the user started the process
+TIME: The amount of time used by the CPU and system on this process
+COMMAND: the command used to start the process
+
+

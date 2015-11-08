@@ -1,0 +1,8 @@
+Q1
+
+a), b) Fully implemented. If the input is too big then the size of the result is far bigger than the screen width, so in that case doesn't look right.
+
+
+Q2
+
+a), b) Both versions should work. The imageChat program throws a warning, but the program works regardless. I forgot to add a space after the chathandle, I didn't want to make last minute changes which might introduce bugs.
