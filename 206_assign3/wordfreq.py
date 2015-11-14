@@ -2,6 +2,7 @@ import sys
 
 arg_count = len(sys.argv)
 
+
 if arg_count > 2:
 	print "Too many arguments. Input arguments should consist of only the file to read from"
 elif arg_count < 2:
@@ -9,10 +10,16 @@ elif arg_count < 2:
 else:
 	try:
 		word_counts = {}
+		def ignore_punctuation(s):
+			punctuation = "()[],.:;\'\"!"
+			for p in punctuation:
+				s = s.replace(p," ")
+			return s
+				
 		input_file = sys.argv[1]
 		with open(input_file) as f:
 			for line in f.readlines():
-				words = line.translate(None, "()[],.:;\'\"!").split()
+				words = ignore_punctuation(line).split()
 				for w in words:
 					lower_w = w.lower()
 					if lower_w in word_counts:

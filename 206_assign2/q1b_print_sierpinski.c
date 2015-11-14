@@ -104,17 +104,29 @@ int main(int argc, char *argv[])
 	int fractal_levels = atoi(argv[2]);
 
 	if (height==0){
+<<<<<<< HEAD
 		printf("ERROR:Height must be a non-zero integer\n");
+=======
+		printf("ERROR:Height must be a non-zero integer");
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 		return 0;
 	}
 
 	if (fractal_levels <0){
+<<<<<<< HEAD
 		printf("ERROR:Fractal Levels too small\n");
+=======
+		printf("ERROR:Fractal Levels too small");
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 		return 0;	
 	}
 
 	if (height < 1){
+<<<<<<< HEAD
 		printf("ERROR: Height too small.\n");
+=======
+		printf("ERROR: Height too small.");
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 		return 0;	
 	}
 
@@ -123,7 +135,11 @@ int main(int argc, char *argv[])
 
 	//printf("%d,%d\n", bitsToCheck,height);
 	if (result!=0){
+<<<<<<< HEAD
 		printf("ERROR:Height not divisible by 2^fractal_levels.\n");
+=======
+		printf("ERROR:Height not divisible by 2^fractal_levels.");
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 		return 0;
 	}
 	

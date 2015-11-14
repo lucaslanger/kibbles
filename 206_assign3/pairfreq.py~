@@ -11,20 +11,29 @@ else:
 	try:
 		word_pairs = {}
 		input_file = sys.argv[1]
+	
+		def ignore_punctuation(s):
+			punctuation = "()[],.:;\'\"!"
+			for p in punctuation:
+				s = s.replace(p," ")
+			return s
+				
+
 		with open(input_file) as f:
 			for line in f.readlines():
-				words = line.translate(None, "()[],.:;\'\"!").split()
+				words = ignore_punctuation(line).split()
 				for i in range(len(words)-1):
-					pair = (words[i].lower(), words[i+1].lower())
-					if pair in word_pairs:
-						word_pairs[pair]+=1
+					str_pair = str([words[i].lower(), words[i+1].lower()])
+					if str_pair in word_pairs:
+						word_pairs[str_pair]+=1
 					else:
-						word_pairs[pair]=1
+						word_pairs[str_pair]=1
 
 		for k,v in word_pairs.iteritems():
-			print [k[0],k[1]], v
+			print k, v
 
-		with open("pairfreq_output.pickle",'wb') as h:
+		out_file = input_file.split(".txt")[0] + ".pickle"
+		with open(out_file,'wb') as h:
 			pickle.dump(word_pairs, h)
 	except: 
 		print "Something wrong with given file"

@@ -38,7 +38,11 @@ int main(int argc, char *argv[]){
 			printf("Nothing recieved yet.\n");
 		}
 		else{
+<<<<<<< HEAD
 			printf("Received: %s\n",fileContents);
+=======
+			printf("Received %s\n",fileContents);
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 		}
 	}
 	fclose(in);
@@ -59,7 +63,11 @@ int main(int argc, char *argv[]){
 				}
 				fileContents[p]='\0';
 				if (sameFile==0){
+<<<<<<< HEAD
 					printf("Recieved: %s\n",fileContents);
+=======
+					printf("Recieved %s\n",fileContents);
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 					reading=0;
 				}
 				
@@ -70,7 +78,10 @@ int main(int argc, char *argv[]){
 			char message[100];
 			printf("Send: ");
 			fgets(message,100,stdin);
+<<<<<<< HEAD
 			fflush(stdout);
+=======
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 		
 			int len = strlen(message);
 			if (len > 0 && message[len-1] == '\n'){
@@ -98,6 +109,10 @@ int main(int argc, char *argv[]){
 			fclose(out);
 			
 			reading=1;
+<<<<<<< HEAD
+=======
+			fflush(stdout);
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 		}
 	}
 	

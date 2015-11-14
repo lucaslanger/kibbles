@@ -11,28 +11,35 @@ else:
 	in_file = sys.argv[1]
 	word_pairs = {}
 	words = {}
+		
 	with open(in_file,"rb") as f:
 		word_pairs = pickle.load(f)
-		for w in word_pairs:
-			words[w[0]] = True
-			words[w[1]] = True
+		for wp in word_pairs:
+			w_e = eval(wp)
+			words[w_e[0]] = True
 
-	words_k = words.keys()
+	def pair_count(k):
+		if k in word_pairs:
+			return word_pairs[k]
+		else:
+			return 0
+
+	print word_pairs.keys()
+
 	while(True):
 		s = raw_input()
 		word_pair = s.split(" ")
-		if len(word_pair) < 1: 
-			print "You only entered less than two words. Please enter two words seperated by a space."
-		elif len(word_pair) > 2:
-			print "No more than two words of input allowed."
+		if len(word_pair) < 1 or len(word_pair) > 2: 
+			print "Error: incorrect input format"
 		else:
-			w0, w1 = word_pair[0], word_pair[1]
+			w0, w1 = word_pair[0].lower(), word_pair[1].lower()
 			if w0 in words:
 				print "Spelling OK!"
 			else:
-				suggestions = difflib.get_close_matches(w0,words_k,1)
+				suggestions = difflib.get_close_matches(w0,words.keys(),10)
 				if len(suggestions) > 0:
-					print "Fix:", suggestions[0], w1	
+					best_suggestion = max(suggestions,key=lambda x: pair_count(str([x,w1])) )
+					print "Fix:", best_suggestion, w1 #, pair_count(str([best_suggestion,w1]))
 				else:
-					print "Detected bad spelling and couldn't find any close suggestions"
+					print "Detected bad spelling but couldn't find any close suggestions"
 

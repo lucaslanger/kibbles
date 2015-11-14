@@ -1,4628 +1,2339 @@
 (dp0
-(S'alias'
+S"['a', 'member']"
 p1
-S'frank'
+I1
+sS"['size', 'of']"
 p2
-tp3
 I1
-s(S'games'
+sS"['before', 'my']"
+p3
+I1
+sS"['ended', 'up']"
 p4
-S'at'
+I1
+sS"['about', 'basic']"
 p5
-tp6
 I1
-s(S'lod'
+sS"['used', 'to']"
+p6
+I1
+sS"['fed', 'my']"
 p7
-S'my'
+I1
+sS"['were', 'spent']"
 p8
-tp9
 I1
-s(S'choice'
+sS"['could', 'monitor']"
+p9
+I1
+sS"['would', 'demand']"
 p10
-S'targets-either'
+I1
+sS"['competitive', 'hobby']"
 p11
-tp12
 I1
-s(S'spent'
+sS"['into', 'lod']"
+p12
+I1
+sS"['change', 'people']"
 p13
-S'the'
+I1
+sS"['a', 'shadowy']"
 p14
-tp15
 I1
-s(S'crime'
+sS"['my', 'modem']"
+p15
+I1
+sS"['technical', 'schematics']"
 p16
-S'began'
+I1
+sS"['still', 'glad']"
 p17
-tp18
 I1
-s(S'have'
+sS"['spent', 'calling']"
+p18
+I1
+sS"['most', 'feared']"
 p19
-S'helped'
+I1
+sS"['obstruct', 'our']"
 p20
-tp21
 I1
-s(S'could'
+sS"['s', 'mystique']"
+p21
+I1
+sS"['point', 'without']"
 p22
-S'social'
+I1
+sS"['had', 'been']"
 p23
-tp24
+I2
+sS"['but', 'things']"
+p24
 I1
-s(S'and'
+sS"['i', 'hooked']"
 p25
-S'breaking'
+I1
+sS"['in', 'california']"
 p26
-tp27
 I1
-s(S'i'
+sS"['my', 'ego']"
+p27
+I1
+sS"['until', 'my']"
 p28
-S'started'
+I1
+sS"['didn', 't']"
 p29
-tp30
-I2
-s(S'began'
+I1
+sS"['local', 'bulletin']"
+p30
+I1
+sS"['monitor', 'lines']"
 p31
-S'on'
+I1
+sS"['hooked', 'up']"
 p32
-tp33
 I1
-s(S'chest'
+sS"['a', 'statement']"
+p33
+I1
+sS"['and', 'could']"
 p34
-S'i'
+I1
+sS"['the', 'sites']"
 p35
-tp36
 I1
-s(S'i'
+sS"['a', 'computer']"
+p36
+I2
+sS"['time', 'to']"
 p37
-S'remember'
+I1
+sS"['was', 'rummaging']"
 p38
-tp39
-I2
-s(S'knew'
+I1
+sS"['my', 'descent']"
+p39
+I1
+sS"['existence-a', 'secret']"
 p40
-S'who'
+I1
+sS"['when', 'i']"
 p41
-tp42
+I2
+sS"['the', 'words']"
+p42
 I1
-s(S'travels'
+sS"['like', 'i']"
 p43
-S'the'
+I1
+sS"['pull', 'our']"
 p44
-tp45
 I1
-s(S'specialize'
+sS"['into', 'systems']"
+p45
+I1
+sS"['games', 'at']"
 p46
-S'in'
+I1
+sS"['cracked', 'many']"
 p47
-tp48
 I1
-s(S'containing'
+sS"['and', 'technical']"
+p48
+I1
+sS"['explored', 'the']"
 p49
-S'mci'
+I1
+sS"['calls', 'all']"
 p50
-tp51
 I1
-s(S'internal'
+sS"['rest', 'of']"
+p51
+I1
+sS"['company', 'manuals-and']"
 p52
-S'computer'
+I1
+sS"['of', 'doom']"
 p53
-tp54
+I3
+sS"['through', 'a']"
+p54
 I1
-s(S'bunch'
+sS"['a', 'competitive']"
 p55
-S'of'
+I1
+sS"['was', 'pretty']"
 p56
-tp57
 I1
-s(S'juvenile'
+sS"['eventually', 'earn']"
+p57
+I1
+sS"['taking', 'all']"
 p58
-S'i'
+I1
+sS"['reports', 'and']"
 p59
-tp60
 I1
-s(S'that'
+sS"['getting', 'the']"
+p60
+I1
+sS"['old', 'voice']"
 p61
-S'it'
+I1
+sS"['into', 'payphones']"
 p62
-tp63
 I1
-s(S'the'
+sS"['my', 'keep']"
+p63
+I1
+sS"['has', 'now']"
 p64
-S'elite'
+I1
+sS"['all', 'hackers']"
 p65
-tp66
-I3
-s(S'about'
+I1
+sS"['s', 'home']"
+p66
+I1
+sS"['pretty', 'scary']"
 p67
-S'basic'
+I1
+sS"['intruder', 'had']"
 p68
-tp69
 I1
-s(S'my'
+sS"['mysterious', 'people']"
+p69
+I1
+sS"['lists', 'of']"
 p70
-S'keep'
+I1
+sS"['time', 'but']"
 p71
-tp72
 I1
-s(S'been'
+sS"['nobody', 'knew']"
+p72
+I1
+sS"['once', 'they']"
 p73
-S'voted'
+I1
+sS"['i', 'started']"
 p74
-tp75
+I2
+sS"['all', 'night']"
+p75
 I1
-s(S'wasnt'
+sS"['t', 'prepared']"
 p76
-S'trying'
+I1
+sS"['almost', 'limitless']"
 p77
-tp78
 I1
-s(S'shadowy'
+sS"['lived', 'all']"
+p78
+I1
+sS"['demand', 'money']"
 p79
-S'electronic'
+I1
+sS"['trusted', 'you']"
 p80
-tp81
 I1
-s(S'a'
+sS"['telephone', 'technician']"
+p81
+I1
+sS"['and', 'what']"
 p82
-S'friends'
+I1
+sS"['a', 'little']"
 p83
-tp84
 I1
-s(S'target'
+sS"['lod', 'into']"
+p84
+I1
+sS"['elite', 'of']"
 p85
-S'of'
+I1
+sS"['be', 'illegal']"
 p86
-tp87
 I1
-s(S'researchers'
+sS"['hacker', 'group']"
+p87
+I1
+sS"['are', 'the']"
 p88
-S'whose'
+I1
+sS"['calling', 'lame']"
 p89
-tp90
 I1
-s(S'clear'
+sS"['knew', 'who']"
+p90
+I1
+sS"['new', 'york']"
 p91
-S'that'
+I1
+sS"['like', 'bill']"
 p92
-tp93
 I1
-s(S'a'
+sS"['i', 'wasn']"
+p93
+I2
+sS"['security', 'researchers']"
 p94
-S'telephone'
+I1
+sS"['immediately', 'taking']"
 p95
-tp96
 I1
-s(S'and'
+sS"['the', 'call']"
+p96
+I2
+sS"['system', 'and']"
 p97
-S'that'
+I1
+sS"['parents', 'had']"
 p98
-tp99
-I3
-s(S'sure'
+I1
+sS"['hackers', 'are']"
+p99
+I1
+sS"['importantly', 'membership']"
 p100
-S'i'
+I1
+sS"['this', 'was']"
 p101
-tp102
 I1
-s(S'i'
+sS"['engineer', 'a']"
+p102
+I1
+sS"['kept', 'a']"
 p103
-S'wasnt'
+I1
+sS"['time', 'they']"
 p104
-tp105
-I2
-s(S'toll-free'
+I1
+sS"['the', 'elite']"
+p105
+I3
+sS"['came', 'to']"
 p106
-S'callsall'
+I1
+sS"['did', 'seems']"
 p107
-tp108
 I1
-s(S'by'
+sS"['night', 'reading']"
+p108
+I1
+sS"['toll-free', 'calls']"
 p109
-S'telephone'
+I1
+sS"['life', 'of']"
 p110
-tp111
 I1
-s(S'1988'
+sS"['things', 'began']"
+p111
+I1
+sS"['calls', 'and']"
 p112
-S'when'
+I1
+sS"['hackers', 'across']"
 p113
-tp114
 I1
-s(S'hasnt'
+sS"['hacker', 'fights']"
+p114
+I1
+sS"['for', 'safe-']"
 p115
-S'run'
+I1
+sS"['little', 'juvenile']"
 p116
-tp117
 I1
-s(S'they'
+sS"['root', 'password']"
+p117
+I1
+sS"['but', 'then']"
 p118
-S'made'
+I1
+sS"['up', 'my']"
 p119
-tp120
 I1
-s(S'300-baud'
+sS"['prophet', 'i']"
+p120
+I1
+sS"['who', 'really']"
 p121
-S'novation'
+I1
+sS"['i', 'received']"
 p122
-tp123
 I1
-s(S'the'
+sS"['into', 'military']"
+p123
+I1
+sS"['heady', 'time']"
 p124
-S'dozens'
+I1
+sS"['learned', 'from']"
 p125
-tp126
 I1
-s(S'night'
+sS"['the', 'prophet']"
+p126
+I1
+sS"['out', 'of']"
 p127
-S'before'
+I2
+sS"['lame', 'local']"
 p128
-tp129
 I1
-s(S'across'
+sS"['novation', 'applecat']"
+p129
+I1
+sS"['it', 'happened']"
 p130
-S'the'
+I1
+sS"['onto', 'the']"
 p131
-tp132
 I1
-s(S'the'
+sS"['stumbled', 'onto']"
+p132
+I1
+sS"['you', 'know']"
 p133
-S'passport'
+I1
+sS"['user', 'to']"
 p134
-tp135
 I1
-s(S'prepared'
+sS"['looks', 'like']"
+p135
+I1
+sS"['because', 'it']"
 p136
-S'for'
+I1
+sS"['longer', 'had']"
 p137
-tp138
 I1
-s(S'to'
+sS"['my', 'very']"
+p138
+I1
+sS"['call', 'from']"
 p139
-S'decs'
+I1
+sS"['of', 'all']"
 p140
-tp141
 I1
-s(S'modem-a'
+sS"['as', 'i']"
+p141
+I1
+sS"['doors', 'to']"
 p142
-S'300-baud'
+I1
+sS"['numbers', 'to']"
 p143
-tp144
 I1
-s(S'from'
+sS"['trophy', 'case']"
+p144
+I1
+sS"['call', 'but']"
 p145
-S'rnoc'
+I1
+sS"['let', 'you']"
 p146
-tp147
-I2
-s(S'my'
+I1
+sS"['i', 'did']"
+p147
+I1
+sS"['t', 'trying']"
 p148
-S'ego'
+I1
+sS"['but', 'i']"
 p149
-tp150
+I2
+sS"['voice', 'may']"
+p150
 I1
-s(S'computer'
+sS"['ultimate', 'target']"
 p151
-S'system'
+I1
+sS"['hobby', 'like']"
 p152
-tp153
 I1
-s(S'ended'
+sS"['m', 'still']"
+p153
+I1
+sS"['told', 'me']"
 p154
-S'up'
+I1
+sS"['blue', 'boxes']"
 p155
-tp156
 I1
-s(S'lists'
+sS"['people', 'like']"
+p156
+I1
+sS"['learned', 'how']"
 p157
-S'of'
+I1
+sS"['first', 'the']"
 p158
-tp159
 I1
-s(S'for'
+sS"['stolen', 'credit']"
+p159
+I1
+sS"['behind', 'aliases']"
 p160
-S'safe-'
+I1
+sS"['and', 'phucked']"
 p161
-tp162
 I1
-s(S'of'
+sS"['successful', 'career']"
+p162
+I1
+sS"['i', 'signed']"
 p163
-S'the'
+I1
+sS"['back', 'messages']"
 p164
-tp165
-I5
-s(S'bloodaxe'
+I1
+sS"['cyberspace', 'looks']"
+p165
+I1
+sS"['who', 'could']"
 p166
-S'who'
+I1
+sS"['apart', 'in']"
 p167
-tp168
 I1
-s(S'telephone'
+sS"['the', 'mines']"
+p168
+I1
+sS"['but', 'not']"
 p169
-S'technician'
+I1
+sS"['lex', 'luthor']"
 p170
-tp171
 I1
-s(S'a'
+sS"['their', 'private']"
+p171
+I1
+sS"['i', 'had']"
 p172
-S'call'
+I3
+sS"['keeping', 'i']"
 p173
-tp174
-I2
-s(S'year'
+I1
+sS"['glad', 'i']"
+p174
+I1
+sS"['computers-the', 'ultimate']"
 p175
-S'was'
+I1
+sS"['that', 'nobody']"
 p176
-tp177
 I1
-s(S'hobby'
+sS"['lod', 'was']"
+p177
+I1
+sS"['crime', 'began']"
 p178
-S'like'
+I1
+sS"['into', 'we']"
 p179
-tp180
 I1
-s(S'elite'
+sS"['the', 'night']"
+p180
+I2
+sS"['passwords', 'to']"
 p181
-S'of'
+I1
+sS"['by', 'frank']"
 p182
-tp183
 I1
-s(S'i'
+sS"['d', 'reveal']"
+p183
+I1
+sS"['under', 'the']"
 p184
-S'posted'
+I1
+sS"['made', 'a']"
 p185
-tp186
 I1
-s(S'what'
+sS"['words', 'member']"
+p186
+I1
+sS"['listing', 'the']"
 p187
-S'messages'
+I1
+sS"['wait', 'until']"
 p188
-tp189
 I1
-s(S'number'
+sS"['although', 'soon']"
+p189
+I1
+sS"['what', 'cyberspace']"
 p190
-S'so'
+I1
+sS"['were', 'choice']"
 p191
-tp192
 I1
-s(S'people'
+sS"['was', 'the']"
+p192
+I2
+sS"['manuals-and', 'dropping']"
 p193
-S'got'
+I1
+sS"['just', 'a']"
 p194
-tp195
 I1
-s(S'stuff-my'
+sS"['without', 'walls']"
+p195
+I1
+sS"['scary', 'but']"
 p196
-S'lists'
+I1
+sS"['passwords', 'my']"
 p197
-tp198
 I1
-s(S'could'
+sS"['the', 'rest']"
+p198
+I1
+sS"['run', 'out']"
 p199
-S'monitor'
+I1
+sS"['to', 'call']"
 p200
-tp201
 I1
-s(S'parents'
+sS"['then', 'stay']"
+p201
+I1
+sS"['was', 'busted']"
 p202
-S'had'
+I1
+sS"['swelled', 'to']"
 p203
-tp204
 I1
-s(S'may'
+sS"['me', 'access']"
+p204
+I1
+sS"['a', 'treasure']"
 p205
-S'enter'
+I1
+sS"['basic', 'programming']"
 p206
-tp207
 I1
-s(S'our'
+sS"['004', 'these']"
+p207
+I1
+sS"['the', 'size']"
 p208
-S'view'
+I1
+sS"['in', 'unix']"
 p209
-tp210
 I1
-s(S'safe-'
+sS"['my', 'colleagues']"
+p210
+I1
+sS"['sports', 'but']"
 p211
-S'keeping'
+I1
+sS"['and', 'lod']"
 p212
-tp213
 I1
-s(S'messages'
+sS"['received', 'a']"
+p213
+I1
+sS"['the', 'telephone']"
 p214
-S'and'
+I1
+sS"['of', 'hacking']"
 p215
-tp216
 I1
-s(S'without'
+sS"['we', 'd']"
+p216
+I1
+sS"['and', 'new']"
 p217
-S'walls'
+I1
+sS"['enabled', 'the']"
 p218
-tp219
 I1
-s(S'computer'
+sS"['elite', 'when']"
+p219
+I1
+sS"['sure', 'i']"
 p220
-S'crime'
+I1
+sS"['was', 'next']"
 p221
-tp222
 I1
-s(S'but'
+sS"['the', 'secret']"
+p222
+I1
+sS"['we', 'explored']"
 p223
-S'then'
+I1
+sS"['bunch', 'of']"
 p224
-tp225
 I1
-s(S'systems'
+sS"['screen', 'with']"
+p225
+I1
+sS"['was', 'that']"
 p226
-S'listen'
+I3
+sS"['make', 'toll-free']"
 p227
-tp228
 I1
-s(S'nabbed'
+sS"['the', 'passport']"
+p228
+I1
+sS"['friends', 'house']"
 p229
-S'and'
+I1
+sS"['guys', 'were']"
 p230
-tp231
 I1
-s(S'started'
+sS"['strangelove', 'and']"
+p231
+I1
+sS"['authority', 'but']"
 p232
-S'to'
+I1
+sS"['became', 'a']"
 p233
-tp234
 I1
-s(S'to'
+sS"['that', 'was']"
+p234
+I1
+sS"['night', 'before']"
 p235
-S'get'
+I1
+sS"['i', 'scored']"
 p236
-tp237
 I1
-s(S'finding'
+sS"['by', 'hacking']"
+p237
+I1
+sS"['know', 'what']"
 p238
-S'out'
+I1
+sS"['statute', 'of']"
 p239
-tp240
 I1
-s(S'systems'
+sS"['telephone', 'switches']"
+p240
+I1
+sS"['that', 'blew']"
 p241
-S'or'
+I1
+sS"['view', 'hackers']"
 p242
-tp243
 I1
-s(S'from'
+sS"['suddenly', 'among']"
+p243
+I1
+sS"['modem-a', '300-baud']"
 p244
-S'my'
+I1
+sS"['the', 'head']"
 p245
-tp246
 I1
-s(S'the'
+sS"['york', 'and']"
+p246
+I1
+sS"['they', 'trusted']"
 p247
-S'operating'
+I1
+sS"['a', 'call']"
 p248
-tp249
+I2
+sS"['busted', 'including']"
+p249
 I1
-s(S'know'
+sS"['few', 'weeks']"
 p250
-S'their'
+I1
+sS"['specialize', 'in']"
 p251
-tp252
 I1
-s(S'a'
+sS"['at', 'the']"
+p252
+I1
+sS"['member', 'legion']"
 p253
-S'computer'
+I1
+sS"['and', 'eventually']"
 p254
-tp255
-I2
-s(S'oryan'
+I1
+sS"['hacking', 'it']"
+p255
+I1
+sS"['unix', 'chosen']"
 p256
-S'quest'
+I1
+sS"['then', 'i']"
 p257
-tp258
 I1
-s(S'my'
+sS"['cars', 'or']"
+p258
+I1
+sS"['frank', 'drake']"
 p259
-S'purloined'
+I2
+sS"['posted', 'messages']"
 p260
-tp261
 I1
-s(S'once'
+sS"['controlled', 'most']"
+p261
+I1
+sS"['somehow', 'convincing']"
 p262
-S'they'
+I1
+sS"['what', 'messages']"
 p263
-tp264
 I1
-s(S'people'
+sS"['i', 'felt']"
+p264
+I1
+sS"['yet', 'on']"
 p265
-S'sat'
+I1
+sS"['the', 'internet']"
 p266
-tp267
 I1
-s(S'the'
+sS"['with', 'the']"
+p267
+I1
+sS"['dozens', 'of']"
 p268
-S'most'
+I1
+sS"['were', 'heavy']"
 p269
-tp270
 I1
-s(S'lex'
+sS"['computer', 'systems']"
+p270
+I2
+sS"['all', 'my']"
 p271
-S'he'
+I1
+sS"['trolling', 'for']"
 p272
-tp273
 I1
-s(S'but'
+sS"['securely-locked', 'doors']"
+p273
+I1
+sS"['left', 'notes']"
 p274
-S'i'
+I1
+sS"['of', 'course']"
 p275
-tp276
 I1
-s(S'my'
+sS"['a', 'life']"
+p276
+I1
+sS"['parlayed', 'his']"
 p277
-S'stuff-my'
+I1
+sS"['doom', 'that']"
 p278
-tp279
 I1
-s(S'social'
+sS"['credit', 'reports']"
+p279
+I1
+sS"['that', 'they']"
 p280
-S'engineer'
+I1
+sS"['bbs', 'what']"
 p281
-tp282
 I1
-s(S'had'
+sS"['across', 'the']"
+p282
+I1
+sS"['where', 'he']"
 p283
-S'learned'
+I1
+sS"['a', 'small']"
 p284
-tp285
 I1
-s(S'to'
+sS"['still', 'i']"
+p285
+I1
+sS"['access', 'to']"
 p286
-S'a'
+I1
+sS"['system', 'used']"
 p287
-tp288
 I1
-s(S'hackers'
+sS"['was', 'now']"
+p288
+I1
+sS"['spread', 'it']"
 p289
-S'like'
+I1
+sS"['at', 'will']"
 p290
-tp291
 I1
-s(S'on'
+sS"['member', 'of']"
+p291
+I1
+sS"['they', 'made']"
 p292
-S'my'
+I1
+sS"['the', 'real']"
 p293
-tp294
 I1
-s(S'was'
+sS"['could', 'call']"
+p294
+I1
+sS"['knew', 'about']"
 p295
-S'a'
+I1
+sS"['year', 'was']"
 p296
-tp297
-I2
-s(S'all'
+I1
+sS"['real', 'reason']"
+p297
+I1
+sS"['my', 'parents']"
 p298
-S'fun'
+I1
+sS"['fall', 'computer']"
 p299
-tp300
 I1
-s(S'most'
+sS"['time', 'i']"
+p300
+I1
+sS"['voted', 'into']"
 p301
-S'feared'
+I1
+sS"['rnoc', 'who']"
 p302
-tp303
 I1
-s(S'at'
+sS"['never', 'was']"
+p303
+I1
+sS"['sites', 'of']"
 p304
-S'a'
+I1
+sS"['and', 'that']"
 p305
-tp306
+I3
+sS"['bulletin', 'boards']"
+p306
 I1
-s(S'of'
+sS"['have', 'helped']"
 p307
-S'hacking'
+I1
+sS"['card', 'numbers']"
 p308
-tp309
+I2
+sS"['of', 'lex']"
+p309
 I1
-s(S'modem'
+sS"['clear', 'that']"
 p310
-S'was'
+I1
+sS"['i', 'was']"
 p311
-tp312
-I1
-s(S'i'
-p313
-S'spent'
-p314
-tp315
-I1
-s(S'a'
-p316
-S'bunch'
-p317
-tp318
-I1
-s(S'a'
-p319
-S'seedy'
-p320
-tp321
-I1
-s(S'country'
-p322
-S'and'
-p323
-tp324
-I1
-s(S'very'
-p325
-S'first'
-p326
-tp327
-I1
-s(S'been'
-p328
-S'nabbed'
-p329
-tp330
-I1
-s(S'i'
-p331
-S'learned'
-p332
-tp333
-I1
-s(S'girls'
-p334
-S'but'
-p335
-tp336
-I1
-s(S'time'
-p337
-S'they'
-p338
-tp339
-I1
-s(S'knew'
-p340
-S'where'
-p341
-tp342
-I1
-s(S'dropping'
-p343
-S'them'
-p344
-tp345
-I1
-s(S'telephone'
-p346
-S'switches'
-p347
-tp348
-I1
-s(S'could'
-p349
-S'call'
-p350
-tp351
-I1
-s(S'importantly'
-p352
-S'membership'
-p353
-tp354
-I1
-s(S'was'
-p355
-S'that'
-p356
-tp357
-I3
-s(S'planet'
-p358
-S'i'
-p359
-tp360
-I1
-s(S'all'
-p361
-S'the'
-p362
-tp363
-I1
-s(S'a'
-p364
-S'sick'
-p365
-tp366
-I1
-s(S'breaking'
-p367
-S'into'
-p368
-tp369
-I1
-s(S'lex'
-p370
-S'luthor'
-p371
-tp372
-I1
-s(S'more'
-p373
-S'but'
-p374
-tp375
-I1
-s(S'college'
-p376
-S'that'
-p377
-tp378
-I1
-s(S'of'
-p379
-S'fun'
-p380
-tp381
-I1
-s(S'apart'
-p382
-S'in'
-p383
-tp384
-I1
-s(S'call'
-p385
-S'other'
-p386
-tp387
-I1
-s(S'legendary'
-p388
-S'hackers'
-p389
-tp390
-I1
-s(S'quest'
-p391
-S'and'
-p392
-tp393
-I1
-s(S'lines'
-p394
-S'in'
-p395
-tp396
-I1
-s(S'to'
-p397
-S'specialize'
-p398
-tp399
-I1
-s(S'the'
-p400
-S'telephone'
-p401
-tp402
-I1
-s(S'of'
-p403
-S'moria'
-p404
-tp405
-I1
-s(S'that'
-p406
-S'enabled'
-p407
-tp408
-I1
-s(S'i'
-p409
-S'felt'
-p410
-tp411
-I1
-s(S'of'
-p412
-S'passwords'
-p413
-tp414
-I1
-s(S'messages'
-p415
-S'using'
-p416
-tp417
-I1
-s(S'and'
-p418
-S'no'
-p419
-tp420
-I1
-s(S'call'
-p421
-S'but'
-p422
-tp423
-I1
-s(S'my'
-p424
-S'colleagues'
-p425
-tp426
-I1
-s(S'but'
-p427
-S'the'
-p428
-tp429
-I2
-s(S'lame'
-p430
-S'local'
-p431
-tp432
-I1
-s(S'signed'
-p433
-S'them'
-p434
-tp435
-I1
-s(S'hid'
-p436
-S'behind'
-p437
-tp438
-I1
-s(S'soon'
-p439
-S'after'
-p440
-tp441
-I1
-s(S'out'
-p442
-S'my'
-p443
-tp444
-I1
-s(S'let'
-p445
-S'you'
-p446
-tp447
-I1
-s(S'every'
-p448
-S'time'
-p449
-tp450
-I1
-s(S'had'
-p451
-S'cracked'
-p452
-tp453
-I1
-s(S'hackers'
-p454
-S'across'
-p455
-tp456
-I1
-s(S'system'
-p457
-S'used'
-p458
-tp459
-I1
-s(S'time'
-p460
-S'i'
-p461
-tp462
-I1
-s(S'only'
-p463
-S'the'
-p464
-tp465
-I1
-s(S'systems'
-p466
-S'i'
-p467
-tp468
-I1
-s(S'looking'
-p469
-S'back'
-p470
-tp471
-I1
-s(S'used'
-p472
-S'to'
-p473
-tp474
-I1
-s(S'left'
-p475
-S'notes'
-p476
-tp477
-I1
-s(S'and'
-p478
-S'then'
-p479
-tp480
-I1
-s(S'and'
-p481
-S'trash'
-p482
-tp483
-I1
-s(S'busted'
-p484
-S'including'
-p485
-tp486
-I1
-s(S'systems'
-p487
-S'bit'
-p488
-tp489
-I1
-s(S'the'
-p490
-S'call'
-p491
-tp492
-I2
-s(S'calls'
-p493
-S'and'
-p494
-tp495
-I1
-s(S'cars'
-p496
-S'or'
-p497
-tp498
-I1
-s(S'these'
-p499
-S'guys'
-p500
-tp501
-I1
-s(S'treasure'
-p502
-S'chest'
-p503
-tp504
-I1
-s(S'unparalleled'
-p505
-S'vantage'
-p506
-tp507
-I1
-s(S'told'
-p508
-S'me'
-p509
-tp510
-I1
-s(S'and'
-p511
-S'eventually'
-p512
-tp513
-I1
-s(S'the'
-p514
-S'sysop'
-p515
-tp516
-I1
-s(S'scary'
-p517
-S'but'
-p518
-tp519
-I1
-s(S'passport'
-p520
-S'to'
-p521
-tp522
-I1
-s(S'authority'
-p523
-S'but'
-p524
-tp525
-I1
-s(S'into'
-p526
-S'military'
-p527
-tp528
-I1
-s(S'would'
-p529
-S'let'
-p530
-tp531
-I1
-s(S'up'
-p532
-S'my'
-p533
-tp534
-I1
-s(S'not'
-p535
-S'lex'
-p536
-tp537
-I1
-s(S'first'
-p538
-S'the'
-p539
-tp540
-I1
-s(S'first'
-p541
-S'modem-a'
-p542
-tp543
-I1
-s(S'that'
-p544
-S'this'
-p545
-tp546
-I1
-s(S'a'
-p547
-S'teenage'
-p548
-tp549
-I1
-s(S'technical'
-p550
-S'schematics'
-p551
-tp552
-I1
-s(S'things'
-p553
-S'began'
-p554
-tp555
-I1
-s(S'friends'
-p556
-S'house'
-p557
-tp558
-I1
-s(S'and'
-p559
-S'new'
-p560
-tp561
-I1
-s(S'but'
-p562
-S'things'
-p563
-tp564
-I1
-s(S'reports'
-p565
-S'and'
-p566
-tp567
-I1
-s(S'in'
-p568
-S'the'
-p569
-tp570
-I1
-s(S'home'
-p571
-S'phones'
-p572
-tp573
-I1
-s(S'were'
-p574
-S'choice'
-p575
-tp576
-I1
-s(S'consultant'
-p577
-S'and'
-p578
-tp579
-I1
-s(S'of'
-p580
-S'doom'
-p581
-tp582
-I3
-s(S'and'
-p583
-S'the'
-p584
-tp585
-I2
-s(S'began'
-p586
-S'to'
-p587
-tp588
-I1
-s(S'from'
-p589
-S'an'
-p590
-tp591
-I1
-s(S'these'
-p592
-S'areas'
-p593
-tp594
-I1
-s(S'then'
-p595
-S'stay'
-p596
-tp597
-I1
-s(S'of'
-p598
-S'top'
-p599
-tp600
-I1
-s(S'to'
-p601
-S'post'
-p602
-tp603
-I1
-s(S'at'
-p604
-S'first'
-p605
-tp606
-I1
-s(S'system'
-p607
-S'and'
-p608
-tp609
-I1
-s(S'i'
-p610
-S'signed'
-p611
-tp612
-I1
-s(S'at'
-p613
-S'the'
-p614
-tp615
-I1
-s(S'york'
-p616
-S'and'
-p617
-tp618
-I1
-s(S'getting'
-p619
-S'the'
-p620
-tp621
-I1
-s(S'i'
-p622
-S'hooked'
-p623
-tp624
-I1
-s(S'trolling'
-p625
-S'for'
-p626
-tp627
-I1
-s(S'local'
-p628
-S'bulletin'
-p629
-tp630
-I1
-s(S'into'
-p631
-S'systems'
-p632
-tp633
-I1
-s(S'pretty'
-p634
-S'scary'
-p635
-tp636
-I1
-s(S'lex'
-p637
-S'told'
-p638
-tp639
-I1
-s(S'california'
-p640
-S'florida'
-p641
-tp642
-I1
-s(S'schematics'
-p643
-S'for'
-p644
-tp645
-I1
-s(S'legion'
-p646
-S'of'
-p647
-tp648
-I3
-s(S'this'
-p649
-S'was'
-p650
-tp651
-I1
-s(S'they'
-p652
-S'knew'
-p653
-tp654
-I1
-s(S'that'
-p655
-S'blew'
-p656
-tp657
-I1
-s(S'computer'
-p658
-S'systems'
-p659
-tp660
-I2
-s(S'view'
-p661
-S'hackers'
-p662
-tp663
-I1
-s(S'electronic'
-p664
-S'realm'
-p665
-tp666
-I1
-s(S'electronic'
-p667
-S'travels'
-p668
-tp669
-I1
-s(S'i'
-p670
-S'never'
-p671
-tp672
-I1
-s(S'hacking'
-p673
-S'which'
-p674
-tp675
-I1
-s(S'never'
-p676
-S'was'
-p677
-tp678
-I1
-s(S'bbs'
-p679
-S'what'
-p680
-tp681
-I1
-s(S'it'
-p682
-S'was'
-p683
-tp684
-I5
-s(S'im'
-p685
-S'still'
-p686
-tp687
-I1
-s(S'a'
-p688
-S'competitive'
-p689
-tp690
-I1
-s(S'listen'
-p691
-S'into'
-p692
-tp693
-I1
-s(S'scored'
-p694
-S'my'
-p695
-tp696
-I1
-s(S'service'
-p697
-S'warning'
-p698
-tp699
-I1
-s(S'id'
-p700
-S'wait'
-p701
-tp702
-I1
-s(S'but'
-p703
-S'once'
-p704
-tp705
-I1
-s(S'all'
-p706
-S'my'
-p707
-tp708
-I1
-s(S'its'
-p709
-S'warning'
-p710
-tp711
-I1
-s(S'and'
-p712
-S'immediately'
-p713
-tp714
-I1
-s(S'a'
-p715
-S'notebook'
-p716
-tp717
-I1
-s(S'the'
-p718
-S'bbs'
-p719
-tp720
-I1
-s(S'the'
-p721
-S'country'
-p722
-tp723
-I1
-s(S'in'
-p724
-S'california'
-p725
-tp726
-I1
-s(S'bit'
-p727
-S'i'
-p728
-tp729
-I1
-s(S'statute'
-p730
-S'of'
-p731
-tp732
-I1
-s(S'statement'
-p733
-S'or'
-p734
-tp735
-I1
-s(S'numbers'
-p736
-S'to'
-p737
-tp738
-I1
-s(S'started'
-p739
-S'college'
-p740
-tp741
-I1
-s(S'me'
-p742
-S'access'
-p743
-tp744
-I1
-s(S'of'
-p745
-S'a'
-p746
-tp747
-I3
-s(S'and'
-p748
-S'one'
-p749
-tp750
-I1
-s(S'case'
-p751
-S'became'
-p752
-tp753
-I1
-s(S'small'
-p754
-S'planet'
-p755
-tp756
-I1
-s(S'the'
-p757
-S'first'
-p758
-tp759
-I1
-s(S'made'
-p760
-S'a'
-p761
-tp762
-I1
-s(S'would'
-p763
-S'demand'
-p764
-tp765
-I1
-s(S'night'
-p766
-S'reading'
-p767
-tp768
-I1
-s(S'reading'
-p769
-S'all'
-p770
-tp771
-I1
-s(S'company'
-p772
-S'manuals-and'
-p773
-tp774
-I1
-s(S'by'
-p775
-S'frank'
-p776
-tp777
-I1
-s(S'to'
-p778
-S'their'
-p779
-tp780
-I1
-s(S'when'
-p781
-S'i'
-p782
-tp783
-I2
-s(S'although'
-p784
-S'soon'
-p785
-tp786
-I1
-s(S'top'
-p787
-S'people'
-p788
-tp789
-I1
-s(S'lod'
-p790
-S'was'
-p791
-tp792
-I1
-s(S'but'
-p793
-S'not'
-p794
-tp795
-I1
-s(S'where'
-p796
-S'i'
-p797
-tp798
-I1
-s(S'fun'
-p799
-S'but'
-p800
-tp801
-I1
-s(S'had'
-p802
-S'left'
-p803
-tp804
-I1
-s(S'1983'
-p805
-S'and'
-p806
-tp807
-I1
-s(S'an'
-p808
-S'unparalleled'
-p809
-tp810
-I1
-s(S'that'
-p811
-S'was'
-p812
-tp813
-I1
-s(S'was'
-p814
-S'just'
-p815
-tp816
-I1
-s(S'like'
-p817
-S'i'
-p818
-tp819
-I1
-s(S'my'
-p820
-S'mind'
-p821
-tp822
-I1
-s(S'all'
-p823
-S'part'
-p824
-tp825
-I1
-s(S'them'
-p826
-S'with'
-p827
-tp828
-I1
-s(S'they'
-p829
-S'controlled'
-p830
-tp831
-I1
-s(S'the'
-p832
-S'year'
-p833
-tp834
-I1
-s(S'decs'
-p835
-S'internal'
-p836
-tp837
-I1
-s(S'gone'
-p838
-S'to'
-p839
-tp840
-I1
-s(S'lived'
-p841
-S'all'
-p842
-tp843
-I1
-s(S'no'
-p844
-S'longer'
-p845
-tp846
-I1
-s(S'may'
-p847
-S'have'
-p848
-tp849
-I1
-s(S'granted'
-p850
-S'me'
-p851
-tp852
-I1
-s(S'explored'
-p853
-S'the'
-p854
-tp855
-I1
-s(S'dropping'
-p856
-S'out'
-p857
-tp858
-I1
-s(S'head'
-p859
-S'of'
-p860
-tp861
-I1
-s(S'after'
-p862
-S'i'
-p863
-tp864
-I2
-s(S'military'
-p865
-S'computer'
-p866
-tp867
-I1
-s(S'novation'
-p868
-S'applecat'
-p869
-tp870
-I1
-s(S'posted'
-p871
-S'messages'
-p872
-tp873
-I1
-s(S'from'
-p874
-S'lex'
-p875
-tp876
-I1
-s(S'was'
-p877
-S'the'
-p878
-tp879
-I2
-s(S'by'
-p880
-S'hacking'
-p881
-tp882
-I1
-s(S'a'
-p883
-S'profit'
-p884
-tp885
-I1
-s(S'are'
-p886
-S'the'
-p887
-tp888
-I1
-s(S'size'
-p889
-S'of'
-p890
-tp891
-I1
-s(S'004'
-p892
-S'these'
-p893
-tp894
-I1
-s(S'applecat'
-p895
-S'the'
-p896
-tp897
-I1
-s(S'bbss'
-p898
-S'but'
-p899
-tp900
-I1
-s(S'still'
-p901
-S'glad'
-p902
-tp903
-I1
-s(S'where'
-p904
-S'people'
-p905
-tp906
-I1
-s(S'technician'
-p907
-S'at'
-p908
-tp909
-I1
-s(S'legendary'
-p910
-S'hacker'
-p911
-tp912
-I1
-s(S'and'
-p913
-S'could'
-p914
-tp915
-I1
-s(S'cyberspace'
-p916
-S'looks'
-p917
-tp918
-I1
-s(S'the'
-p919
-S'statute'
-p920
-tp921
-I1
-s(S'all'
-p922
-S'hackers'
-p923
-tp924
-I1
-s(S'the'
-p925
-S'night'
-p926
-tp927
-I2
-s(S'switches'
-p928
-S'in'
-p929
-tp930
-I1
-s(S'remember'
-p931
-S'finding'
-p932
-tp933
-I1
-s(S'colleagues'
-p934
-S'had'
-p935
-tp936
-I1
-s(S'and'
-p937
-S'lod'
-p938
-tp939
-I1
-s(S'remember'
-p940
-S'the'
-p941
-tp942
-I1
-s(S'security'
-p943
-S'consultant'
-p944
-tp945
-I1
-s(S'under'
-p946
-S'the'
-p947
-tp948
-I1
-s(S'that'
-p949
-S'would'
-p950
-tp951
-I1
-s(S'he'
-p952
-S'lived'
-p953
-tp954
-I1
-s(S'the'
-p955
-S'back'
-p956
-tp957
-I1
-s(S'the'
-p958
-S'intruder'
-p959
-tp960
-I1
-s(S'stay'
-p961
-S'up'
-p962
-tp963
-I1
-s(S'stumbled'
-p964
-S'onto'
-p965
-tp966
-I1
-s(S'time'
-p967
-S'to'
-p968
-tp969
-I1
-s(S'enabled'
-p970
-S'the'
-p971
-tp972
-I1
-s(S'boxes'
-p973
-S'that'
-p974
-tp975
-I1
-s(S'doom'
-p976
-S'that'
-p977
-tp978
-I1
-s(S'time'
-p979
-S'but'
-p980
-tp981
-I1
-s(S'after'
-p982
-S'somehow'
-p983
-tp984
-I1
-s(S'of'
-p985
-S'course'
-p986
-tp987
-I1
-s(S'illegal'
-p988
-S'still'
-p989
-tp990
-I1
-s(S'nobody'
-p991
-S'knew'
-p992
-tp993
-I1
-s(S'mysterious'
-p994
-S'people'
-p995
-tp996
-I1
-s(S'like'
-p997
-S'bill'
-p998
-tp999
-I1
-s(S'when'
-p1000
-S'lex'
-p1001
-tp1002
-I1
-s(S'a'
-p1003
-S'member'
-p1004
-tp1005
-I1
-s(S'looks'
-p1006
-S'like'
-p1007
-tp1008
-I1
-s(S'was'
-p1009
-S'now'
-p1010
-tp1011
-I1
-s(S'intruder'
-p1012
-S'had'
-p1013
-tp1014
-I1
-s(S'of'
-p1015
-S'lexs'
-p1016
-tp1017
-I1
-s(S'envied'
-p1018
-S'hackers'
-p1019
-tp1020
-I1
-s(S'doom'
-p1021
-S'and'
-p1022
-tp1023
-I1
-s(S'hackers'
-p1024
-S'of'
-p1025
-tp1026
-I1
-s(S'really'
-p1027
-S'know'
-p1028
-tp1029
-I1
-s(S'when'
-p1030
-S'a'
-p1031
-tp1032
-I1
-s(S'them'
-p1033
-S'at'
-p1034
-tp1035
-I1
-s(S'computer'
-p1036
-S'science'
-p1037
-tp1038
-I1
-s(S'hacking'
-p1039
-S'and'
-p1040
-tp1041
-I1
-s(S'rest'
-p1042
-S'of'
-p1043
-tp1044
-I1
-s(S'doors'
-p1045
-S'to'
-p1046
-tp1047
-I1
-s(S'immediately'
-p1048
-S'taking'
-p1049
-tp1050
-I1
-s(S'a'
-p1051
-S'statement'
-p1052
-tp1053
-I1
-s(S'post'
-p1054
-S'on'
-p1055
-tp1056
-I1
-s(S'group'
-p1057
-S'legion'
-p1058
-tp1059
-I1
-s(S'the'
-p1060
-S'hacker'
-p1061
-tp1062
-I1
-s(S'real'
-p1063
-S'reason'
-p1064
-tp1065
-I1
-s(S'to'
-p1066
-S'call'
-p1067
-tp1068
-I1
-s(S'birthday'
-p1069
-S'when'
-p1070
-tp1071
-I1
-s(S'reason'
-p1072
-S'i'
-p1073
-tp1074
-I1
-s(S'barriers'
-p1075
-S'or'
-p1076
-tp1077
-I1
-s(S'in'
-p1078
-S'lod'
-p1079
-tp1080
-I2
-s(S'engineer'
-p1081
-S'a'
-p1082
-tp1083
-I1
-s(S'screen'
-p1084
-S'with'
-p1085
-tp1086
-I1
-s(S'mind'
-p1087
-S'i'
-p1088
-tp1089
-I1
-s(S'get'
-p1090
-S'into'
-p1091
-tp1092
-I1
-s(S'where'
-p1093
-S'he'
-p1094
-tp1095
-I1
-s(S'payphones'
-p1096
-S'that'
-p1097
-tp1098
-I1
-s(S'card'
-p1099
-S'numbers'
-p1100
-tp1101
-I2
-s(S'not'
-p1102
-S'that'
-p1103
-tp1104
-I1
-s(S'out'
-p1105
-S'of'
-p1106
-tp1107
-I2
-s(S'many'
-p1108
-S'were'
-p1109
-tp1110
-I1
-s(S'swelled'
-p1111
-S'to'
-p1112
-tp1113
-I1
-s(S'ego'
-p1114
-S'swelled'
-p1115
-tp1116
-I1
-s(S'because'
-p1117
-S'it'
-p1118
-tp1119
-I1
-s(S'spread'
-p1120
-S'it'
-p1121
-tp1122
-I1
-s(S'agent'
-p1123
-S'004'
-p1124
-tp1125
-I1
-s(S'an'
-p1126
-S'ordinary'
-p1127
-tp1128
-I1
-s(S'calling'
-p1129
-S'lame'
-p1130
-tp1131
-I1
-s(S'monitored'
-p1132
-S'id'
-p1133
-tp1134
-I1
-s(S'night'
-p1135
-S'posting'
-p1136
-tp1137
-I1
-s(S'what'
-p1138
-S'i'
-p1139
-tp1140
-I2
-s(S'guys'
-p1141
-S'were'
-p1142
-tp1143
-I1
-s(S'routinely'
-p1144
-S'monitored'
-p1145
-tp1146
-I1
-s(S'part'
-p1147
-S'of'
-p1148
-tp1149
-I1
-s(S'one'
-p1150
-S'of'
-p1151
-tp1152
-I1
-s(S'that'
-p1153
-S'nobody'
-p1154
-tp1155
-I1
-s(S'areas'
-p1156
-S'at'
-p1157
-tp1158
-I1
-s(S'blew'
-p1159
-S'my'
-p1160
-tp1161
-I1
-s(S'or'
-p1162
-S'sports'
-p1163
-tp1164
-I1
-s(S'among'
-p1165
-S'legendary'
-p1166
-tp1167
-I1
-s(S'their'
-p1168
-S'phone'
-p1169
-tp1170
-I1
-s(S'a'
-p1171
-S'treasure'
-p1172
-tp1173
-I1
-s(S'sports'
-p1174
-S'but'
-p1175
-tp1176
-I1
-s(S'called'
-p1177
-S'you'
-p1178
-tp1179
-I1
-s(S'how'
-p1180
-S'to'
-p1181
-tp1182
-I1
-s(S'notes'
-p1183
-S'containing'
-p1184
-tp1185
-I1
-s(S'13-year-'
-p1186
-S'old'
-p1187
-tp1188
-I1
-s(S'was'
-p1189
-S'from'
-p1190
-tp1191
-I1
-s(S'bbs'
-p1192
-S'after'
-p1193
-tp1194
-I1
-s(S'with'
-p1195
-S'its'
-p1196
-tp1197
-I1
-s(S'of'
-p1198
-S'legion'
-p1199
-tp1200
-I1
-s(S'you'
-p1201
-S'they'
-p1202
-tp1203
-I1
-s(S'ordinary'
-p1204
-S'bbs'
-p1205
-tp1206
-I1
-s(S'but'
-p1207
-S'it'
-p1208
-tp1209
-I1
-s(S'computer'
-p1210
-S'criminal'
-p1211
-tp1212
-I1
-s(S'the'
-p1213
-S'size'
-p1214
-tp1215
-I1
-s(S'point'
-p1216
-S'without'
-p1217
-tp1218
-I1
-s(S'cracked'
-p1219
-S'many'
-p1220
-tp1221
-I1
-s(S'doom'
-p1222
-S'i'
-p1223
-tp1224
-I1
-s(S'onto'
-p1225
-S'the'
-p1226
-tp1227
-I1
-s(S'stolen'
-p1228
-S'credit'
-p1229
-tp1230
-I1
-s(S'that'
-p1231
-S'i'
-p1232
-tp1233
-I4
-s(S'a'
-p1234
-S'root'
-p1235
-tp1236
-I1
-s(S'the'
-p1237
-S'user'
-p1238
-tp1239
-I1
-s(S'frank'
-p1240
-S'drake'
-p1241
-tp1242
-I2
-s(S'purloined'
-p1243
-S'telephone'
-p1244
-tp1245
-I1
-s(S'id'
-p1246
-S'reveal'
-p1247
-tp1248
-I1
-s(S'lod'
-p1249
-S'granted'
-p1250
-tp1251
-I1
-s(S'science'
-p1252
-S'of'
-p1253
-tp1254
-I1
-s(S'of'
-p1255
-S'any'
-p1256
-tp1257
-I1
-s(S'came'
-p1258
-S'to'
-p1259
-tp1260
-I1
-s(S'call'
-p1261
-S'was'
-p1262
-tp1263
-I1
-s(S'be'
-p1264
-S'illegal'
-p1265
-tp1266
-I1
-s(S'amount'
-p1267
-S'of'
-p1268
-tp1269
-I1
-s(S'hacker'
-p1270
-S'group'
-p1271
-tp1272
-I1
-s(S'obstruct'
-p1273
-S'our'
-p1274
-tp1275
-I1
-s(S'make'
-p1276
-S'a'
-p1277
-tp1278
-I1
-s(S'not'
-p1279
-S'a'
-p1280
-tp1281
-I1
-s(S'credit'
-p1282
-S'reports'
-p1283
-tp1284
-I1
-s(S'member'
-p1285
-S'of'
-p1286
-tp1287
-I1
-s(S'the'
-p1288
-S'prophet'
-p1289
-tp1290
-I1
-s(S'learned'
-p1291
-S'from'
-p1292
-tp1293
-I1
-s(S'but'
-p1294
-S'im'
-p1295
-tp1296
-I1
-s(S'13th'
-p1297
-S'birthday'
-p1298
-tp1299
-I1
-s(S'dozens'
-p1300
-S'of'
-p1301
-tp1302
-I1
-s(S'a'
-p1303
-S'hat'
-p1304
-tp1305
-I1
-s(S'spent'
-p1306
-S'under'
-p1307
-tp1308
-I1
-s(S'we'
-p1309
-S'explored'
-p1310
-tp1311
-I1
-s(S'i'
-p1312
-S'had'
-p1313
-tp1314
-I3
-s(S'i'
-p1315
-S'received'
-p1316
-tp1317
-I1
-s(S'i'
-p1318
-S'hacked'
-p1319
-tp1320
-I1
-s(S'aliases'
-p1321
-S'but'
-p1322
-tp1323
-I1
-s(S'into'
-p1324
-S'a'
-p1325
-tp1326
-I2
-s(S'old'
-p1327
-S'voice'
-p1328
-tp1329
-I1
-s(S'my'
-p1330
-S'very'
-p1331
-tp1332
-I1
-s(S'hackers'
-p1333
-S'hid'
-p1334
-tp1335
-I1
-s(S'i'
-p1336
-S'did'
-p1337
-tp1338
-I1
-s(S'ultimate'
-p1339
-S'target'
-p1340
-tp1341
-I1
-s(S'mines'
-p1342
-S'of'
-p1343
-tp1344
-I1
-s(S'through'
-p1345
-S'a'
-p1346
-tp1347
-I1
-s(S'fights'
-p1348
-S'we'
-p1349
-tp1350
-I1
-s(S'they'
-p1351
-S'trusted'
-p1352
-tp1353
-I1
-s(S'out'
-p1354
-S'yet'
-p1355
-tp1356
-I1
-s(S'most'
-p1357
-S'of'
-p1358
-tp1359
-I2
-s(S'the'
-p1360
-S'time'
-p1361
-tp1362
-I2
-s(S'my'
-p1363
-S'13-year-'
-p1364
-tp1365
-I1
-s(S'stamp'
-p1366
-S'implied'
-p1367
-tp1368
-I1
-s(S'the'
-p1369
-S'drop'
-p1370
-tp1371
-I1
-s(S'member'
-p1372
-S'legion'
-p1373
-tp1374
-I1
-s(S'notebook'
-p1375
-S'listing'
-p1376
-tp1377
-I1
-s(S'kept'
-p1378
-S'a'
-p1379
-tp1380
-I1
-s(S'fell'
-p1381
-S'apart'
-p1382
-tp1383
-I1
-s(S'the'
-p1384
-S'real'
-p1385
-tp1386
-I1
-s(S'company'
-p1387
-S'computers-the'
-p1388
-tp1389
-I1
-s(S'a'
-p1390
-S'small'
-p1391
-tp1392
-I1
-s(S'wed'
-p1393
-S'change'
-p1394
-tp1395
-I1
-s(S'messages'
-p1396
-S'mysterious'
-p1397
-tp1398
-I1
-s(S'used'
-p1399
-S'by'
-p1400
-tp1401
-I1
-s(S'to'
-p1402
-S'the'
-p1403
-tp1404
-I1
-s(S'luthor'
-p1405
-S'the'
-p1406
-tp1407
-I1
-s(S'messages'
-p1408
-S'i'
-p1409
-tp1410
-I1
-s(S'and'
-p1411
-S'envied'
-p1412
-tp1413
-I1
-s(S'into'
-p1414
-S'payphones'
-p1415
-tp1416
-I1
-s(S'eventually'
-p1417
-S'earn'
-p1418
-tp1419
-I1
-s(S'modem'
-p1420
-S'were'
-p1421
-tp1422
-I1
-s(S'i'
-p1423
-S'stumbled'
-p1424
-tp1425
-I1
-s(S'life'
-p1426
-S'of'
-p1427
-tp1428
-I1
-s(S'heavy'
-p1429
-S'they'
-p1430
-tp1431
-I1
-s(S'who'
-p1432
-S'i'
-p1433
-tp1434
-I1
-s(S'convincing'
-p1435
-S'the'
-p1436
-tp1437
-I1
-s(S'to'
-p1438
-S'obstruct'
-p1439
-tp1440
-I1
-s(S'the'
-p1441
-S'words'
-p1442
-tp1443
-I1
-s(S'credit'
-p1444
-S'card'
-p1445
-tp1446
-I2
-s(S'for'
-p1447
-S'blue'
-p1448
-tp1449
-I1
-s(S'of'
-p1450
-S'those'
-p1451
-tp1452
-I1
-s(S'me'
-p1453
-S'that'
-p1454
-tp1455
-I2
-s(S'keep'
-p1456
-S'as'
-p1457
-tp1458
-I1
-s(S'i'
-p1459
-S'didnt'
-p1460
-tp1461
-I1
-s(S'became'
-p1462
-S'a'
-p1463
-tp1464
-I1
-s(S'was'
-p1465
-S'suddenly'
-p1466
-tp1467
-I1
-s(S'that'
-p1468
-S'stamp'
-p1469
-tp1470
-I1
-s(S'the'
-p1471
-S'sites'
-p1472
-tp1473
-I1
-s(S'fall'
-p1474
-S'computer'
-p1475
-tp1476
-I1
-s(S'and'
-p1477
-S'games'
-p1478
-tp1479
-I1
-s(S'longer'
-p1480
-S'had'
-p1481
-tp1482
-I1
-s(S'dr'
-p1483
-S'strangelove'
-p1484
-tp1485
-I1
-s(S'to'
-p1486
-S'sleep'
-p1487
-tp1488
-I1
-s(S'numbers'
-p1489
-S'passwords'
-p1490
-tp1491
-I1
-s(S'was'
-p1492
-S'next'
-p1493
-tp1494
-I1
-s(S'few'
-p1495
-S'weeks'
-p1496
-tp1497
-I1
-s(S'as'
-p1498
-S'i'
-p1499
-tp1500
-I1
-s(S'be'
-p1501
-S'a'
-p1502
-tp1503
-I1
-s(S'taking'
-p1504
-S'all'
-p1505
-tp1506
-I1
-s(S'who'
-p1507
-S'could'
-p1508
-tp1509
-I1
-s(S'felt'
-p1510
-S'like'
-p1511
-tp1512
-I1
-s(S'lod'
-p1513
-S'into'
-p1514
-tp1515
-I1
-s(S'run'
-p1516
-S'out'
-p1517
-tp1518
-I1
-s(S'helped'
-p1519
-S'and'
-p1520
-tp1521
-I1
-s(S'listing'
-p1522
-S'the'
-p1523
-tp1524
-I1
-s(S'little'
-p1525
-S'juvenile'
-p1526
-tp1527
-I1
-s(S'behind'
-p1528
-S'aliases'
-p1529
-tp1530
-I1
-s(S'user'
-p1531
-S'to'
-p1532
-tp1533
-I1
-s(S'and'
-p1534
-S'what'
-p1535
-tp1536
-I1
-s(S'so'
-p1537
-S'you'
-p1538
-tp1539
-I1
-s(S'i'
-p1540
-S'knew'
-p1541
-tp1542
-I1
-s(S'sat'
-p1543
-S'around'
-p1544
-tp1545
-I1
-s(S'in'
-p1546
-S'these'
-p1547
-tp1548
-I1
-s(S'security'
-p1549
-S'researchers'
-p1550
-tp1551
-I1
-s(S'passwords'
-p1552
-S'my'
-p1553
-tp1554
-I1
-s(S'hackers'
-p1555
-S'are'
-p1556
-tp1557
-I1
-s(S'who'
-p1558
-S'really'
-p1559
-tp1560
-I1
-s(S'fun'
-p1561
-S'and'
-p1562
-tp1563
-I1
-s(S'for'
-p1564
-S'actually'
-p1565
-tp1566
-I1
-s(S'a'
-p1567
-S'fed'
-p1568
-tp1569
-I1
-s(S'chosen'
-p1570
-S'because'
-p1571
-tp1572
-I1
-s(S'around'
-p1573
-S'talking'
-p1574
-tp1575
-I1
-s(S'posting'
-p1576
-S'messages'
-p1577
-tp1578
-I1
-s(S'call'
-p1579
-S'pull'
-p1580
-tp1581
-I1
-s(S'callsall'
-p1582
-S'the'
-p1583
-tp1584
-I1
-s(S'florida'
-p1585
-S'and'
-p1586
-tp1587
-I1
-s(S'happened'
-p1588
-S'to'
-p1589
-tp1590
-I1
-s(S'hat'
-p1591
-S'erik'
-p1592
-tp1593
-I1
-s(S'still'
-p1594
-S'i'
-p1595
-tp1596
-I1
-s(S'life'
-p1597
-S'spent'
-p1598
-tp1599
-I1
-s(S'secret'
-p1600
-S'service'
-p1601
-tp1602
-I1
-s(S'password'
-p1603
-S'out'
-p1604
-tp1605
-I1
-s(S'boards'
-p1606
-S'where'
-p1607
-tp1608
-I1
-s(S'it'
-p1609
-S'happened'
-p1610
-tp1611
-I1
-s(S'ones'
-p1612
-S'who'
-p1613
-tp1614
-I1
-s(S'reputation'
-p1615
-S'spread'
-p1616
-tp1617
-I1
-s(S'including'
-p1618
-S'bill'
-p1619
-tp1620
-I1
-s(S'like'
-p1621
-S'cars'
-p1622
-tp1623
-I1
-s(S'those'
-p1624
-S'hacks'
-p1625
-tp1626
-I1
-s(S'my'
-p1627
-S'13th'
-p1628
-tp1629
-I1
-s(S'suddenly'
-p1630
-S'among'
-p1631
-tp1632
-I1
-s(S'got'
-p1633
-S'busted'
-p1634
-tp1635
-I1
-s(S'telephone'
-p1636
-S'calls'
-p1637
-tp1638
-I1
-s(S'trying'
-p1639
-S'to'
-p1640
-tp1641
-I1
-s(S'my'
-p1642
-S'trophy'
-p1643
-tp1644
-I1
-s(S'new'
-p1645
-S'york'
-p1646
-tp1647
-I1
-s(S'hacking'
-p1648
-S'it'
-p1649
-tp1650
-I1
-s(S'passwords'
-p1651
-S'to'
-p1652
-tp1653
-I1
-s(S'of'
-p1654
-S'what'
-p1655
-tp1656
-I1
-s(S'phucked'
-p1657
-S'agent'
-p1658
-tp1659
-I1
-s(S'was'
-p1660
-S'not'
-p1661
-tp1662
-I2
-s(S'had'
-p1663
-S'been'
-p1664
-tp1665
-I2
-s(S'into'
-p1666
-S'telephone'
-p1667
-tp1668
-I1
-s(S'they'
-p1669
-S'would'
-p1670
-tp1671
-I1
-s(S'change'
-p1672
-S'peoples'
-p1673
-tp1674
-I1
-s(S'course'
-p1675
-S'and'
-p1676
-tp1677
-I1
-s(S'all'
-p1678
-S'night'
-p1679
-tp1680
-I1
-s(S'i'
-p1681
-S'came'
-p1682
-tp1683
-I1
-s(S'hacker'
-p1684
-S'fights'
-p1685
-tp1686
-I1
-s(S'were'
-p1687
-S'heavy'
-p1688
-tp1689
-I1
-s(S'career'
-p1690
-S'as'
-p1691
-tp1692
-I1
-s(S'basic'
-p1693
-S'programming'
-p1694
-tp1695
-I1
-s(S'had'
-p1696
-S'gone'
-p1697
-tp1698
-I1
-s(S'was'
-p1699
-S'hooked'
-p1700
-tp1701
-I1
-s(S'using'
-p1702
-S'stolen'
-p1703
-tp1704
-I1
-s(S'computer'
-p1705
-S'security'
-p1706
-tp1707
-I2
-s(S'controlled'
-p1708
-S'most'
-p1709
-tp1710
-I1
-s(S'just'
-p1711
-S'a'
-p1712
-tp1713
-I1
-s(S'what'
-p1714
-S'cyberspace'
-p1715
-tp1716
-I1
-s(S'seedy'
-p1717
-S'nocturnal'
-p1718
-tp1719
-I1
-s(S'only'
-p1720
-S'ones'
-p1721
-tp1722
-I1
-s(S'warning'
-p1723
-S'me'
-p1724
-tp1725
-I1
-s(S'with'
-p1726
-S'the'
-p1727
-tp1728
-I1
-s(S'and'
-p1729
-S'phucked'
-p1730
-tp1731
-I1
-s(S'were'
-p1732
-S'spent'
-p1733
-tp1734
-I1
-s(S'wasnt'
-p1735
-S'prepared'
-p1736
-tp1737
-I1
-s(S'before'
-p1738
-S'my'
-p1739
-tp1740
-I1
-s(S'back'
-p1741
-S'messages'
-p1742
-tp1743
-I1
-s(S'trophy'
-p1744
-S'case'
-p1745
-tp1746
-I1
-s(S'money'
-p1747
-S'every'
-p1748
-tp1749
-I1
-s(S'was'
-p1750
-S'having'
-p1751
-tp1752
-I1
-s(S'vantage'
-p1753
-S'point'
-p1754
-tp1755
-I1
-s(S'words'
-p1756
-S'member'
-p1757
-tp1758
-I1
-s(S'on'
-p1759
-S'most'
-p1760
-tp1761
-I1
-s(S'mail'
-p1762
-S'we'
-p1763
-tp1764
-I1
-s(S'received'
-p1765
-S'a'
-p1766
-tp1767
-I1
-s(S'computers-the'
-p1768
-S'ultimate'
-p1769
-tp1770
-I1
-s(S'pull'
-p1771
-S'our'
-p1772
-tp1773
-I1
-s(S'operating'
-p1774
-S'system'
-p1775
-tp1776
-I1
-s(S'as'
-p1777
-S'a'
-p1778
-tp1779
-I2
-s(S'you'
-p1780
-S'know'
-p1781
-tp1782
-I1
-s(S'existence-a'
-p1783
-S'secret'
-p1784
-tp1785
-I1
-s(S'rnoc'
-p1786
-S'oryan'
-p1787
-tp1788
-I1
-s(S'did'
-p1789
-S'seems'
-p1790
-tp1791
-I1
-s(S'knew'
-p1792
-S'about'
-p1793
-tp1794
-I1
-s(S'targets-either'
-p1795
-S'telco'
-p1796
-tp1797
-I1
-s(S'sleep'
-p1798
-S'and'
-p1799
-tp1800
-I1
-s(S'or'
-p1801
-S'securely-locked'
-p1802
-tp1803
-I1
-s(S'walls'
-p1804
-S'impenetrable'
-p1805
-tp1806
-I1
-s(S'a'
-p1807
-S'heady'
-p1808
-tp1809
-I1
-s(S'erik'
-p1810
-S'bloodaxe'
-p1811
-tp1812
-I1
-s(S'peoples'
-p1813
-S'home'
-p1814
-tp1815
-I1
-s(S'feared'
-p1816
-S'and'
-p1817
-tp1818
-I1
-s(S'his'
-p1819
-S'life'
-p1820
-tp1821
-I1
-s(S'phones'
-p1822
-S'into'
-p1823
-tp1824
-I1
-s(S'keeping'
-p1825
-S'i'
-p1826
-tp1827
-I1
-s(S'spent'
-p1828
-S'calling'
-p1829
-tp1830
-I1
-s(S'was'
-p1831
-S'pretty'
-p1832
-tp1833
-I1
-s(S'first'
-p1834
-S'few'
-p1835
-tp1836
-I1
-s(S'bill'
-p1837
-S'from'
-p1838
-tp1839
-I2
-s(S'wait'
-p1840
-S'until'
-p1841
-tp1842
-I1
-s(S'a'
-p1843
-S'shadowy'
-p1844
-tp1845
-I1
-s(S'root'
-p1846
-S'password'
-p1847
-tp1848
-I1
-s(S'the'
-p1849
-S'opening'
-p1850
-tp1851
-I1
-s(S'that'
-p1852
-S'they'
-p1853
-tp1854
-I1
-s(S'my'
-p1855
-S'reputation'
-p1856
-tp1857
-I1
-s(S'reveal'
-p1858
-S'more'
-p1859
-tp1860
-I1
-s(S'trusted'
-p1861
-S'you'
-p1862
-tp1863
-I1
-s(S'fed'
-p1864
-S'my'
-p1865
-tp1866
-I1
-s(S'he'
-p1867
-S'always'
-p1868
-tp1869
-I1
-s(S'that'
-p1870
-S'only'
-p1871
-tp1872
-I1
-s(S'that'
-p1873
-S'fall'
-p1874
-tp1875
-I1
-s(S'manuals-and'
-p1876
-S'dropping'
-p1877
-tp1878
-I1
-s(S'the'
-p1879
-S'alias'
-p1880
-tp1881
-I1
-s(S'like'
-p1882
-S'dr'
-p1883
-tp1884
-I1
-s(S'or'
-p1885
-S'the'
-p1886
-tp1887
-I1
-s(S'in'
-p1888
-S'unix'
-p1889
-tp1890
-I1
-s(S'the'
-p1891
-S'internet'
-p1892
-tp1893
-I1
-s(S'>from'
-p1894
-S'the'
-p1895
-tp1896
-I1
-s(S'elite'
-p1897
-S'may'
-p1898
-tp1899
-I1
-s(S'always'
-p1900
-S'called'
-p1901
-tp1902
-I1
-s(S'a'
-p1903
-S'successful'
-p1904
-tp1905
-I1
-s(S'up'
-p1906
-S'dropping'
-p1907
-tp1908
-I1
-s(S'almost'
-p1909
-S'limitless'
-p1910
-tp1911
-I1
-s(S'phone'
-p1912
-S'number'
-p1913
-tp1914
-I1
-s(S'rnoc'
-p1915
-S'who'
-p1916
-tp1917
-I1
-s(S'a'
-p1918
-S'life'
-p1919
-tp1920
-I1
-s(S'lexs'
-p1921
-S'mystique'
-p1922
-tp1923
-I1
-s(S'monitor'
-p1924
-S'lines'
-p1925
-tp1926
-I1
-s(S'i'
-p1927
-S'scored'
-p1928
-tp1929
-I1
-s(S'blue'
-p1930
-S'boxes'
-p1931
-tp1932
-I1
-s(S'the'
-p1933
-S'head'
-p1934
-tp1935
-I1
-s(S'of'
-p1936
-S'all'
-p1937
-tp1938
-I1
-s(S'sites'
-p1939
-S'of'
-p1940
-tp1941
-I1
-s(S'securely-locked'
-p1942
-S'doors'
-p1943
-tp1944
-I1
-s(S'heady'
-p1945
-S'time'
-p1946
-tp1947
-I1
-s(S'sysop'
-p1948
-S'that'
-p1949
-tp1950
-I1
-s(S'but'
-p1951
-S'more'
-p1952
-tp1953
-I1
-s(S'has'
-p1954
-S'now'
-p1955
-tp1956
-I1
-s(S'programming'
-p1957
-S'and'
-p1958
-tp1959
-I1
-s(S'into'
-p1960
-S'wed'
-p1961
-tp1962
-I1
-s(S'drop'
-p1963
-S'of'
-p1964
-tp1965
-I1
-s(S'or'
-p1966
-S'a'
-p1967
-tp1968
-I1
-s(S'teenage'
-p1969
-S'hacker'
-p1970
-tp1971
-I1
-s(S'we'
-p1972
-S'used'
-p1973
-tp1974
-I1
-s(S'having'
-p1975
-S'a'
-p1976
-tp1977
-I1
-s(S'more'
-p1978
-S'importantly'
-p1979
-tp1980
-I1
-s(S'the'
-p1981
-S'mines'
-p1982
-tp1983
-I1
-s(S'of'
-p1984
-S'computer'
-p1985
-tp1986
-I3
-s(S'their'
-p1987
-S'private'
-p1988
-tp1989
-I1
-s(S'mci'
-p1990
-S'credit'
-p1991
-tp1992
-I1
-s(S'the'
-p1993
-S'secret'
-p1994
-tp1995
-I1
-s(S'was'
-p1996
-S'1983'
-p1997
-tp1998
-I1
-s(S'the'
-p1999
-S'rest'
-p2000
-tp2001
-I1
-s(S'some'
-p2002
-S'of'
-p2003
-tp2004
-I1
-s(S'trash'
-p2005
-S'bbss'
-p2006
-tp2007
-I1
-s(S'from'
-p2008
-S'the'
-p2009
-tp2010
-I1
-s(S'in'
-p2011
-S'1988'
-p2012
-tp2013
-I1
-s(S'yet'
-p2014
-S'on'
-p2015
-tp2016
-I1
-s(S'learned'
-p2017
-S'how'
-p2018
-tp2019
-I1
-s(S'you'
-p2020
-S'could'
-p2021
-tp2022
-I1
-s(S'unix'
-p2023
-S'chosen'
-p2024
-tp2025
-I1
-s(S'house'
-p2026
-S'for'
-p2027
-tp2028
-I1
-s(S'make'
-p2029
-S'toll-free'
-p2030
-tp2031
-I1
-s(S'our'
-p2032
-S'enemies'
-p2033
-tp2034
-I1
-s(S'telco'
-p2035
-S'systems'
-p2036
-tp2037
-I1
-s(S'the'
-p2038
-S'legendary'
-p2039
-tp2040
-I1
-s(S'parlayed'
-p2041
-S'his'
-p2042
-tp2043
-I1
-s(S'hacked'
-p2044
-S'we'
-p2045
-tp2046
-I1
-s(S'profit'
-p2047
-S'by'
-p2048
-tp2049
-I1
-s(S'was'
-p2050
-S'sure'
-p2051
-tp2052
-I1
-s(S'for'
-p2053
-S'girls'
-p2054
-tp2055
-I1
-s(S'telephone'
-p2056
-S'company'
-p2057
-tp2058
-I2
-s(S'somehow'
-p2059
-S'convincing'
-p2060
-tp2061
-I1
-s(S'mystique'
-p2062
-S'was'
-p2063
-tp2064
-I1
-s(S'back'
-p2065
-S'some'
-p2066
-tp2067
-I1
-s(S'earn'
-p2068
-S'my'
-p2069
-tp2070
-I1
-s(S'secret'
-p2071
-S'life'
-p2072
-tp2073
-I1
-s(S'internet'
-p2074
-S'from'
-p2075
-tp2076
-I1
-s(S'that'
-p2077
-S'modem'
-p2078
-tp2079
-I1
-s(S'bit'
-p2080
-S'by'
-p2081
-tp2082
-I1
-s(S'into'
-p2083
-S'lod'
-p2084
-tp2085
-I1
-s(S'which'
-p2086
-S'i'
-p2087
-tp2088
-I1
-s(S'busted'
-p2089
-S'although'
-p2090
-tp2091
-I1
-s(S'the'
-p2092
-S'only'
-p2093
-tp2094
-I1
-s(S'membership'
-p2095
-S'in'
-p2096
-tp2097
-I1
-s(S'and'
-p2098
-S'trolling'
-p2099
-tp2100
-I1
-s(S'realm'
-p2101
-S'where'
-p2102
-tp2103
-I1
-s(S'was'
-p2104
-S'clear'
-p2105
-tp2106
-I1
-s(S'competitive'
-p2107
-S'hobby'
-p2108
-tp2109
-I1
-s(S'bulletin'
-p2110
-S'board'
-p2111
-tp2112
-I1
-s(S'talking'
-p2113
-S'about'
-p2114
-tp2115
-I1
-s(S'was'
-p2116
-S'all'
-p2117
-tp2118
-I1
-s(S'my'
-p2119
-S'parents'
-p2120
-tp2121
-I1
-s(S'not'
-p2122
-S'an'
-p2123
-tp2124
-I1
-s(S'limitless'
-p2125
-S'authority'
-p2126
-tp2127
-I1
-s(S'enter'
-p2128
-S'it'
-p2129
-tp2130
-I1
-s(S'limitations'
-p2131
-S'hasnt'
-p2132
-tp2133
-I1
-s(S'whose'
-p2134
-S'mail'
-p2135
-tp2136
-I1
-s(S'access'
-p2137
-S'to'
-p2138
-tp2139
-I1
-s(S'hooked'
-p2140
-S'up'
-p2141
-tp2142
-I1
-s(S'warning'
-p2143
-S'that'
-p2144
-tp2145
-I1
-s(S'any'
-p2146
-S'hacker'
-p2147
-tp2148
-I1
-s(S'we'
-p2149
-S'routinely'
-p2150
-tp2151
-I1
-s(S'life'
-p2152
-S'in'
-p2153
-tp2154
-I1
-s(S'people'
-p2155
-S'like'
-p2156
-tp2157
-I1
-s(S'weeks'
-p2158
-S'after'
-p2159
-tp2160
-I1
-s(S'my'
-p2161
-S'modem'
-p2162
-tp2163
-I1
-s(S'a'
-p2164
-S'little'
-p2165
-tp2166
-I1
-s(S'i'
-p2167
-S'kept'
-p2168
-tp2169
-I1
-s(S'now'
-p2170
-S'in'
-p2171
-tp2172
-I1
-s(S'until'
-p2173
-S'my'
-p2174
-tp2175
-I1
-s(S'descent'
-p2176
-S'into'
-p2177
-tp2178
-I1
-s(S'to'
-p2179
-S'make'
-p2180
-tp2181
-I2
-s(S'prophet'
-p2182
-S'i'
-p2183
-tp2184
-I1
-s(S'of'
-p2185
-S'limitations'
-p2186
-tp2187
-I1
-s(S'successful'
-p2188
-S'career'
-p2189
-tp2190
-I1
-s(S'voted'
-p2191
-S'into'
-p2192
-tp2193
-I1
-s(S'who'
-p2194
-S'has'
-p2195
-tp2196
-I1
-s(S'voice'
-p2197
-S'may'
-p2198
-tp2199
-I1
-s(S'elite'
-p2200
-S'when'
-p2201
-tp2202
-I1
-s(S'was'
-p2203
-S'busted'
-p2204
-tp2205
-I1
-s(S'my'
-p2206
-S'descent'
-p2207
-tp2208
-I1
-s(S'now'
-p2209
-S'parlayed'
-p2210
-tp2211
-I1
-s(S'to'
-p2212
-S'fell'
-p2213
-tp2214
-I1
-s(S'up'
-p2215
-S'all'
-p2216
-tp2217
-I1
-s(S'was'
-p2218
-S'rummaging'
-p2219
-tp2220
-I1
-s(S'rummaging'
-p2221
-S'through'
-p2222
-tp2223
-I1
-s(S'strangelove'
-p2224
-S'and'
-p2225
-tp2226
-I1
-s(S'to'
-p2227
-S'be'
-p2228
-tp2229
-I2
-s(S'demand'
-p2230
-S'money'
-p2231
-tp2232
-I1
-s(S'sick'
-p2233
-S'amount'
-p2234
-tp2235
-I1
-s(S'opening'
-p2236
-S'screen'
-p2237
-tp2238
-I1
-s(S'i'
-p2239
-S'ended'
-p2240
-tp2241
-I1
-s(S'call'
-p2242
-S'from'
-p2243
-tp2244
-I1
-s(S'by'
-p2245
-S'bit'
-p2246
-tp2247
-I1
-s(S'bulletin'
-p2248
-S'boards'
-p2249
-tp2250
-I1
-s(S'nocturnal'
-p2251
-S'existence-a'
-p2252
-tp2253
-I1
-s(S'on'
-p2254
-S'the'
-p2255
-tp2256
-I1
-s(S'my'
-p2257
-S'electronic'
-p2258
-tp2259
-I1
-s(S'seems'
-p2260
-S'a'
-p2261
-tp2262
-I1
-s(S'didnt'
-p2263
-S'i'
-p2264
-tp2265
-I1
-s(S'then'
-p2266
-S'i'
-p2267
-tp2268
-I1
-s(S'actually'
-p2269
-S'getting'
-p2270
-tp2271
-I1
-s(S'impenetrable'
-p2272
-S'barriers'
-p2273
-tp2274
-I1
-s(S'i'
-p2275
-S'was'
-p2276
-tp2277
 I10
-s(S'had'
-p2278
-S'the'
-p2279
-tp2280
+sS"['the', 'dozens']"
+p312
 I1
-s(S'about'
-p2281
-S'hacking'
-p2282
-tp2283
+sS"['talking', 'about']"
+p313
 I1
-s(S'implied'
-p2284
-S'almost'
-p2285
-tp2286
+sS"['from', 'rnoc']"
+p314
+I2
+sS"['all', 'fun']"
+p315
 I1
-s(S'break'
-p2287
-S'into'
-p2288
-tp2289
+sS"['military', 'computer']"
+p316
 I1
-s(S'other'
-p2290
-S'hackers'
-p2291
-tp2292
+sS"['i', 'posted']"
+p317
 I1
-s(S'know'
-p2293
-S'what'
-p2294
-tp2295
+sS"['i', 'spent']"
+p318
 I1
-s(S'glad'
-p2296
-S'i'
-p2297
-tp2298
+sS"['descent', 'into']"
+p319
 I1
-s(S'enemies'
-p2299
-S'credit'
-p2300
-tp2301
+sS"['routinely', 'monitored']"
+p320
 I1
-s(S'at'
-p2302
-S'will'
-p2303
-tp2304
+sS"['stay', 'up']"
+p321
 I1
-s(S'to'
-p2305
-S'break'
-p2306
-tp2307
+sS"['of', 'limitations']"
+p322
 I1
-s(S'and'
-p2308
-S'technical'
-p2309
-tp2310
+sS"['at', 'first']"
+p323
 I1
-s(S'private'
-p2311
-S'bulletin'
-p2312
-tp2313
+sS"['computer', 'system']"
+p324
+I1
+sS"['most', 'of']"
+p325
+I2
+sS"['he', 'always']"
+p326
+I1
+sS"['luthor', 'the']"
+p327
+I1
+sS"['head', 'of']"
+p328
+I1
+sS"['bbss', 'but']"
+p329
+I1
+sS"['teenage', 'hacker']"
+p330
+I1
+sS"['systems', 'bit']"
+p331
+I1
+sS"['seems', 'a']"
+p332
+I1
+sS"['began', 'to']"
+p333
+I1
+sS"['the', 'operating']"
+p334
+I1
+sS"['me', 'that']"
+p335
+I2
+sS"['every', 'time']"
+p336
+I1
+sS"['gone', 'to']"
+p337
+I1
+sS"['for', 'girls']"
+p338
+I1
+sS"['legendary', 'hacker']"
+p339
+I1
+sS"['for', 'actually']"
+p340
+I1
+sS"['but', 'more']"
+p341
+I1
+sS"['electronic', 'travels']"
+p342
+I1
+sS"['mystique', 'was']"
+p343
+I1
+sS"['of', 'computer']"
+p344
+I3
+sS"['up', 'all']"
+p345
+I1
+sS"['ego', 'swelled']"
+p346
+I1
+sS"['doom', 'and']"
+p347
+I1
+sS"['schematics', 'for']"
+p348
+I1
+sS"['planet', 'i']"
+p349
+I1
+sS"['they', 'knew']"
+p350
+I1
+sS"['including', 'bill']"
+p351
+I1
+sS"['call', 'was']"
+p352
+I1
+sS"['i', 'didn']"
+p353
+I1
+sS"['when', 'a']"
+p354
+I1
+sS"['opening', 'screen']"
+p355
+I1
+sS"['but', 'it']"
+p356
+I1
+sS"['all', 'part']"
+p357
+I1
+sS"['life', 'spent']"
+p358
+I1
+sS"['people', 'sat']"
+p359
+I1
+sS"['monitored', 'i']"
+p360
+I1
+sS"['reveal', 'more']"
+p361
+I1
+sS"['weeks', 'after']"
+p362
+I1
+sS"['passport', 'to']"
+p363
+I1
+sS"['that', 'stamp']"
+p364
+I1
+sS"['bit', 'i']"
+p365
+I1
+sS"['lex', 'told']"
+p366
+I1
+sS"['my', 'electronic']"
+p367
+I1
+sS"['shadowy', 'electronic']"
+p368
+I1
+sS"['i', 'd']"
+p369
+I2
+sS"['what', 'i']"
+p370
+I2
+sS"['my', '13-year-']"
+p371
+I1
+sS"['one', 'of']"
+p372
+I1
+sS"['my', 'reputation']"
+p373
+I1
+sS"['legion', 'of']"
+p374
+I3
+sS"['was', 'just']"
+p375
+I1
+sS"['in', '1988']"
+p376
+I1
+sS"['to', 'specialize']"
+p377
+I1
+sS"['was', 'having']"
+p378
+I1
+sS"['busted', 'although']"
+p379
+I1
+sS"['at', 'a']"
+p380
+I1
+sS"['telephone', 'calls']"
+p381
+I1
+sS"['to', 'be']"
+p382
+I2
+sS"['house', 'for']"
+p383
+I1
+sS"['was', 'not']"
+p384
+I2
+sS"['the', 'bbs']"
+p385
+I1
+sS"['hackers', 'of']"
+p386
+I1
+sS"['night', 'posting']"
+p387
+I1
+sS"['by', 'telephone']"
+p388
+I1
+sS"['breaking', 'into']"
+p389
+I1
+sS"['amount', 'of']"
+p390
+I1
+sS"['not', 'lex']"
+p391
+I1
+sS"['the', 'drop']"
+p392
+I1
+sS"['that', 'it']"
+p393
+I1
+sS"['aliases', 'but']"
+p394
+I1
+sS"['lod', 'granted']"
+p395
+I1
+sS"['remember', 'finding']"
+p396
+I1
+sS"['whose', 'mail']"
+p397
+I1
+sS"['payphones', 'that']"
+p398
+I1
+sS"['to', 'break']"
+p399
+I1
+sS"['a', 'telephone']"
+p400
+I1
+sS"['now', 'parlayed']"
+p401
+I1
+sS"['post', 'on']"
+p402
+I1
+sS"['applecat', 'the']"
+p403
+I1
+sS"['i', 'never']"
+p404
+I1
+sS"['of', 'what']"
+p405
+I1
+sS"['that', 'this']"
+p406
+I1
+sS"['science', 'of']"
+p407
+I1
+sS"['lines', 'in']"
+p408
+I1
+sS"['nocturnal', 'existence-a']"
+p409
+I1
+sS"['was', 'a']"
+p410
+I2
+sS"['the', 'country']"
+p411
+I1
+sS"['been', 'nabbed']"
+p412
+I1
+sS"['a', 'seedy']"
+p413
+I1
+sS"['when', 'lex']"
+p414
+I1
+sS"['finding', 'out']"
+p415
+I1
+sS"['warning', 'that']"
+p416
+I1
+sS"['that', 'enabled']"
+p417
+I1
+sS"['to', 'fell']"
+p418
+I1
+sS"['that', 'i']"
+p419
+I4
+sS"['to', 'a']"
+p420
+I1
+sS"['secret', 'life']"
+p421
+I1
+sS"['really', 'know']"
+p422
+I1
+sS"['to', 'get']"
+p423
+I1
+sS"['systems', 'listen']"
+p424
+I1
+sS"['lex', 'he']"
+p425
+I1
+sS"['phone', 'number']"
+p426
+I1
+sS"['signed', 'them']"
+p427
+I1
+sS"['i', 'ended']"
+p428
+I1
+sS"['messages', 'mysterious']"
+p429
+I1
+sS"['in', 'lod']"
+p430
+I2
+sS"['the', 'statute']"
+p431
+I1
+sS"['i', 'm']"
+p432
+I1
+sS"['not', 'that']"
+p433
+I1
+sS"['a', 'root']"
+p434
+I1
+sS"['to', 'sleep']"
+p435
+I1
+sS"['was', 'all']"
+p436
+I1
+sS"['rnoc', 'oryan']"
+p437
+I1
+sS"['dec', 's']"
+p438
+I1
+sS"['after', 'somehow']"
+p439
+I1
+sS"['messages', 'using']"
+p440
+I1
+sS"['heavy', 'they']"
+p441
+I1
+sS"['birthday', 'when']"
+p442
+I1
+sS"['with', 'its']"
+p443
+I1
+sS"['felt', 'like']"
+p444
+I1
+sS"['and', 'envied']"
+p445
+I1
+sS"['sysop', 'that']"
+p446
+I1
+sS"['of', 'legion']"
+p447
+I1
+sS"['a', 'teenage']"
+p448
+I1
+sS"['bill', 'from']"
+p449
+I2
+sS"['of', 'the']"
+p450
+I5
+sS"['>from', 'the']"
+p451
+I1
+sS"['only', 'the']"
+p452
+I1
+sS"['like', 'dr']"
+p453
+I1
+sS"['telephone', 'company']"
+p454
+I2
+sS"['walls', 'impenetrable']"
+p455
+I1
+sS"['a', 'fed']"
+p456
+I1
+sS"['to', 'obstruct']"
+p457
+I1
+sS"['legendary', 'hackers']"
+p458
+I1
+sS"['areas', 'at']"
+p459
+I1
+sS"['spent', 'the']"
+p460
+I1
+sS"['travels', 'the']"
+p461
+I1
+sS"['you', 'could']"
+p462
+I1
+sS"['or', 'the']"
+p463
+I1
+sS"['wasn', 't']"
+p464
+I2
+sS"['colleagues', 'had']"
+p465
+I1
+sS"['targets-either', 'telco']"
+p466
+I1
+sS"['or', 'a']"
+p467
+I1
+sS"['a', 'successful']"
+p468
+I1
+sS"['using', 'stolen']"
+p469
+I1
+sS"['we', 'used']"
+p470
+I1
+sS"['was', 'suddenly']"
+p471
+I1
+sS"['them', 'at']"
+p472
+I1
+sS"['realm', 'where']"
+p473
+I1
+sS"['bulletin', 'board']"
+p474
+I1
+sS"['would', 'let']"
+p475
+I1
+sS"['college', 'that']"
+p476
+I1
+sS"['on', 'most']"
+p477
+I1
+sS"['a', 'heady']"
+p478
+I1
+sS"['those', 'hacks']"
+p479
+I1
+sS"['notebook', 'listing']"
+p480
+I1
+sS"['life', 'in']"
+p481
+I1
+sS"['d', 'wait']"
+p482
+I1
+sS"['and', 'immediately']"
+p483
+I1
+sS"['the', 'alias']"
+p484
+I1
+sS"['a', 'friends']"
+p485
+I1
+sS"['hacking', 'and']"
+p486
+I1
+sS"['dr', 'strangelove']"
+p487
+I1
+sS"['an', 'ordinary']"
+p488
+I1
+sS"['telco', 'systems']"
+p489
+I1
+sS"['of', 'passwords']"
+p490
+I1
+sS"['bit', 'by']"
+p491
+I1
+sS"['top', 'people']"
+p492
+I1
+sS"['was', 'hooked']"
+p493
+I1
+sS"['it', 'was']"
+p494
+I5
+sS"['reputation', 'spread']"
+p495
+I1
+sS"['around', 'talking']"
+p496
+I1
+sS"['in', 'the']"
+p497
+I1
+sS"['fun', 'and']"
+p498
+I1
+sS"['who', 'i']"
+p499
+I1
+sS"['nabbed', 'and']"
+p500
+I1
+sS"['researchers', 'whose']"
+p501
+I1
+sS"['out', 'yet']"
+p502
+I1
+sS"['modem', 'was']"
+p503
+I1
+sS"['t', 'i']"
+p504
+I1
+sS"['like', 'cars']"
+p505
+I1
+sS"['some', 'of']"
+p506
+I1
+sS"['people', 's']"
+p507
+I1
+sS"['mines', 'of']"
+p508
+I1
+sS"['systems', 'or']"
+p509
+I1
+sS"['fights', 'we']"
+p510
+I1
+sS"['all', 'the']"
+p511
+I2
+sS"['boards', 'where']"
+p512
+I1
+sS"['spent', 'under']"
+p513
+I1
+sS"['started', 'college']"
+p514
+I1
+sS"['agent', '004']"
+p515
+I1
+sS"['was', 'sure']"
+p516
+I1
+sS"['target', 'of']"
+p517
+I1
+sS"['my', '13th']"
+p518
+I1
+sS"['knew', 'where']"
+p519
+I1
+sS"['the', 'sysop']"
+p520
+I1
+sS"['happened', 'to']"
+p521
+I1
+sS"['consultant', 'and']"
+p522
+I1
+sS"['juvenile', 'i']"
+p523
+I1
+sS"['about', 'hacking']"
+p524
+I1
+sS"['very', 'first']"
+p525
+I1
+sS"['get', 'into']"
+p526
+I1
+sS"['started', 'to']"
+p527
+I1
+sS"['a', 'hat']"
+p528
+I1
+sS"['phones', 'into']"
+p529
+I1
+sS"['any', 'hacker']"
+p530
+I1
+sS"['them', 'with']"
+p531
+I1
+sS"['and', 'the']"
+p532
+I2
+sS"['reading', 'all']"
+p533
+I1
+sS"['that', 'only']"
+p534
+I1
+sS"['convincing', 'the']"
+p535
+I1
+sS"['drop', 'of']"
+p536
+I1
+sS"['of', 'top']"
+p537
+I1
+sS"['chest', 'i']"
+p538
+I1
+sS"['numbers', 'passwords']"
+p539
+I1
+sS"['my', 'stuff-my']"
+p540
+I1
+sS"['of', 'those']"
+p541
+I1
+sS"['phucked', 'agent']"
+p542
+I1
+sS"['d', 'change']"
+p543
+I1
+sS"['the', 'time']"
+p544
+I2
+sS"['so', 'you']"
+p545
+I1
+sS"['be', 'a']"
+p546
+I1
+sS"['granted', 'me']"
+p547
+I1
+sS"['out', 'my']"
+p548
+I1
+sS"['or', 'securely-locked']"
+p549
+I1
+sS"['of', 'any']"
+p550
+I1
+sS"['case', 'became']"
+p551
+I1
+sS"['company', 'computers-the']"
+p552
+I1
+sS"['the', 'first']"
+p553
+I1
+sS"['i', 'hacked']"
+p554
+I1
+sS"['hackers', 'like']"
+p555
+I1
+sS"['which', 'i']"
+p556
+I1
+sS"['the', 'most']"
+p557
+I1
+sS"['from', 'lex']"
+p558
+I1
+sS"['and', 'trash']"
+p559
+I1
+sS"['illegal', 'still']"
+p560
+I1
+sS"['on', 'my']"
+p561
+I1
+sS"['purloined', 'telephone']"
+p562
+I1
+sS"['private', 'bulletin']"
+p563
+I1
+sS"['many', 'were']"
+p564
+I1
+sS"['envied', 'hackers']"
+p565
+I1
+sS"['t', 'run']"
+p566
+I1
+sS"['i', 'kept']"
+p567
+I1
+sS"['break', 'into']"
+p568
+I1
+sS"['credit', 'card']"
+p569
+I2
+sS"['computer', 'science']"
+p570
+I1
+sS"['trying', 'to']"
+p571
+I1
+sS"['blew', 'my']"
+p572
+I1
+sS"['number', 'so']"
+p573
+I1
+sS"['other', 'hackers']"
+p574
+I1
+sS"['i', 'came']"
+p575
+I1
+sS"['boxes', 'that']"
+p576
+I1
+sS"['more', 'but']"
+p577
+I1
+sS"['13th', 'birthday']"
+p578
+I1
+sS"['our', 'view']"
+p579
+I1
+sS"['modem', 'were']"
+p580
+I1
+sS"['but', 'the']"
+p581
+I2
+sS"['choice', 'targets-either']"
+p582
+I1
+sS"['i', 'learned']"
+p583
+I1
+sS"['always', 'called']"
+p584
+I1
+sS"['may', 'have']"
+p585
+I1
+sS"['mind', 'i']"
+p586
+I1
+sS"['was', '1983']"
+p587
+I1
+sS"['or', 'sports']"
+p588
+I1
+sS"['had', 'gone']"
+p589
+I1
+sS"['scored', 'my']"
+p590
+I1
+sS"['on', 'the']"
+p591
+I1
+sS"['lex', 's']"
+p592
+I1
+sS"['not', 'a']"
+p593
+I1
+sS"['a', 'sick']"
+p594
+I1
+sS"['as', 'a']"
+p595
+I2
+sS"['know', 'their']"
+p596
+I1
+sS"['a', 'notebook']"
+p597
+I1
+sS"['secret', 'service']"
+p598
+I1
+sS"['rummaging', 'through']"
+p599
+I1
+sS"['first', 'few']"
+p600
+I1
+sS"['to', 'dec']"
+p601
+I1
+sS"['call', 'pull']"
+p602
+I1
+sS"['and', 'one']"
+p603
+I1
+sS"['1983', 'and']"
+p604
+I1
+sS"['girls', 'but']"
+p605
+I1
+sS"['from', 'the']"
+p606
+I1
+sS"['internet', 'from']"
+p607
+I1
+sS"['soon', 'after']"
+p608
+I1
+sS"['1988', 'when']"
+p609
+I1
+sS"['prepared', 'for']"
+p610
+I1
+sS"['the', 'opening']"
+p611
+I1
+sS"['been', 'voted']"
+p612
+I1
+sS"['notes', 'containing']"
+p613
+I1
+sS"['listen', 'into']"
+p614
+I1
+sS"['used', 'by']"
+p615
+I1
+sS"['quest', 'and']"
+p616
+I1
+sS"['its', 'warning']"
+p617
+I1
+sS"['profit', 'by']"
+p618
+I1
+sS"['i', 'stumbled']"
+p619
+I1
+sS"['these', 'guys']"
+p620
+I1
+sS"['to', 'make']"
+p621
+I2
+sS"['my', 'trophy']"
+p622
+I1
+sS"['operating', 'system']"
+p623
+I1
+sS"['implied', 'almost']"
+p624
+I1
+sS"['service', 'warning']"
+p625
+I1
+sS"['seedy', 'nocturnal']"
+p626
+I1
+sS"['hacked', 'we']"
+p627
+I1
+sS"['that', 'modem']"
+p628
+I1
+sS"['and', 'breaking']"
+p629
+I1
+sS"['and', 'games']"
+p630
+I1
+sS"['who', 'has']"
+p631
+I1
+sS"['security', 'consultant']"
+p632
+I1
+sS"['to', 'the']"
+p633
+I1
+sS"['of', 'a']"
+p634
+I3
+sS"['enemies', 'credit']"
+p635
+I1
+sS"['impenetrable', 'barriers']"
+p636
+I1
+sS"['sleep', 'and']"
+p637
+I1
+sS"['from', 'my']"
+p638
+I1
+sS"['mail', 'we']"
+p639
+I1
+sS"['by', 'bit']"
+p640
+I1
+sS"['fun', 'but']"
+p641
+I1
+sS"['that', 'fall']"
+p642
+I1
+sS"['bbs', 'after']"
+p643
+I1
+sS"['helped', 'and']"
+p644
+I1
+sS"['but', 'once']"
+p645
+I1
+sS"['password', 'out']"
+p646
+I1
+sS"['messages', 'i']"
+p647
+I1
+sS"['up', 'dropping']"
+p648
+I1
+sS"['doom', 'i']"
+p649
+I1
+sS"['into', 'a']"
+p650
+I2
+sS"['unparalleled', 'vantage']"
+p651
+I1
+sS"['had', 'cracked']"
+p652
+I1
+sS"['to', 'post']"
+p653
+I1
+sS"['sick', 'amount']"
+p654
+I1
+sS"['more', 'importantly']"
+p655
+I1
+sS"['vantage', 'point']"
+p656
+I1
+sS"['only', 'ones']"
+p657
+I1
+sS"['course', 'and']"
+p658
+I1
+sS"['hid', 'behind']"
+p659
+I1
+sS"['keep', 'as']"
+p660
+I1
+sS"['an', 'unparalleled']"
+p661
+I1
+sS"['had', 'the']"
+p662
+I1
+sS"['i', 'knew']"
+p663
+I1
+sS"['group', 'legion']"
+p664
+I1
+sS"['alias', 'frank']"
+p665
+I1
+sS"['social', 'engineer']"
+p666
+I1
+sS"['i', 'remember']"
+p667
+I2
+sS"['s', 'internal']"
+p668
+I1
+sS"['the', 'user']"
+p669
+I1
+sS"['where', 'i']"
+p670
+I1
+sS"['the', 'hacker']"
+p671
+I1
+sS"['began', 'on']"
+p672
+I1
+sS"['internal', 'computer']"
+p673
+I1
+sS"['hat', 'erik']"
+p674
+I1
+sS"['called', 'you']"
+p675
+I1
+sS"['safe-', 'keeping']"
+p676
+I1
+sS"['warning', 'me']"
+p677
+I1
+sS"['you', 'they']"
+p678
+I1
+sS"['earn', 'my']"
+p679
+I1
+sS"['treasure', 'chest']"
+p680
+I1
+sS"['my', 'purloined']"
+p681
+I1
+sS"['limitations', 'hasn']"
+p682
+I1
+sS"['into', 'telephone']"
+p683
+I1
+sS"['his', 'life']"
+p684
+I1
+sS"['computer', 'crime']"
+p685
+I1
+sS"['oryan', 'quest']"
+p686
+I1
+sS"['chosen', 'because']"
+p687
+I1
+sS"['these', 'areas']"
+p688
+I1
+sS"['and', 'trolling']"
+p689
+I1
+sS"['systems', 'i']"
+p690
+I1
+sS"['small', 'planet']"
+p691
+I1
+sS"['had', 'left']"
+p692
+I1
+sS"['now', 'in']"
+p693
+I1
+sS"['300-baud', 'novation']"
+p694
+I1
+sS"['statement', 'or']"
+p695
+I1
+sS"['technician', 'at']"
+p696
+I1
+sS"['programming', 'and']"
+p697
+I1
+sS"['they', 'controlled']"
+p698
+I1
+sS"['to', 'their']"
+p699
+I1
+sS"['the', 'legendary']"
+p700
+I1
+sS"['looking', 'back']"
+p701
+I1
+sS"['dropping', 'them']"
+p702
+I1
+sS"['lod', 'my']"
+p703
+I1
+sS"['hasn', 't']"
+p704
+I1
+sS"['ordinary', 'bbs']"
+p705
+I1
+sS"['after', 'i']"
+p706
+I2
+sS"['career', 'as']"
+p707
+I1
+sS"['not', 'an']"
+p708
+I1
+sS"['electronic', 'realm']"
+p709
+I1
+sS"['stuff-my', 'lists']"
+p710
+I1
+sS"['we', 'routinely']"
+p711
+I1
+sS"['home', 'phones']"
+p712
+I1
+sS"['was', 'clear']"
+p713
+I1
+sS"['my', 'mind']"
+p714
+I1
+sS"['could', 'social']"
+p715
+I1
+sS"['where', 'people']"
+p716
+I1
+sS"['reason', 'i']"
+p717
+I1
+sS"['feared', 'and']"
+p718
+I1
+sS"['erik', 'bloodaxe']"
+p719
+I1
+sS"['the', 'back']"
+p720
+I1
+sS"['was', 'from']"
+p721
+I1
+sS"['part', 'of']"
+p722
+I1
+sS"['limitless', 'authority']"
+p723
+I1
+sS"['the', 'only']"
+p724
+I1
+sS"['enter', 'it']"
+p725
+I1
+sS"['stamp', 'implied']"
+p726
+I1
+sS"['membership', 'in']"
+p727
+I1
+sS"['he', 'lived']"
+p728
+I1
+sS"['people', 'got']"
+p729
+I1
+sS"['in', 'these']"
+p730
+I1
+sS"['california', 'florida']"
+p731
+I1
+sS"['actually', 'getting']"
+p732
+I1
+sS"['the', 'intruder']"
+p733
+I1
+sS"['messages', 'and']"
+p734
+I1
+sS"['having', 'a']"
+p735
+I1
+sS"['no', 'longer']"
+p736
+I1
+sS"['among', 'legendary']"
+p737
+I1
+sS"['first', 'modem-a']"
+p738
+I1
+sS"['from', 'an']"
+p739
+I1
+sS"['had', 'learned']"
+p740
+I1
+sS"['sat', 'around']"
+p741
+I1
+sS"['containing', 'mci']"
+p742
+I1
+sS"['posting', 'messages']"
+p743
+I1
+sS"['bloodaxe', 'who']"
+p744
+I1
+sS"['trash', 'bbss']"
+p745
+I1
+sS"['for', 'blue']"
+p746
+I1
+sS"['of', 'fun']"
+p747
+I1
+sS"['back', 'some']"
+p748
+I1
+sS"['elite', 'may']"
+p749
+I1
+sS"['and', 'then']"
+p750
+I1
+sS"['that', 'would']"
+p751
+I1
+sS"['how', 'to']"
+p752
+I1
+sS"['13-year-', 'old']"
+p753
+I1
+sS"['ones', 'who']"
+p754
+I1
+sS"['a', 'bunch']"
+p755
+I1
+sS"['hacking', 'which']"
+p756
+I1
+sS"['fell', 'apart']"
+p757
+I1
+sS"['their', 'phone']"
+p758
+I1
+sS"['remember', 'the']"
+p759
+I1
+sS"['mci', 'credit']"
+p760
+I1
+sS"['florida', 'and']"
+p761
+I1
+sS"['hackers', 'hid']"
+p762
+I1
+sS"['the', 'year']"
+p763
+I1
+sS"['dropping', 'out']"
+p764
+I1
+sS"['may', 'enter']"
+p765
+I1
+sS"['money', 'every']"
+p766
+I1
+sS"['our', 'enemies']"
+p767
+I1
+sS"['make', 'a']"
+p768
+I1
+sS"['call', 'other']"
+p769
+I1
+sS"['they', 'would']"
+p770
+I1
+sS"['switches', 'in']"
+p771
+I1
+sS"['computer', 'security']"
+p772
+I2
+sS"['got', 'busted']"
+p773
+I1
+sS"['country', 'and']"
+p774
+I1
+sS"['and', 'no']"
+p775
+I1
+sS"['barriers', 'or']"
+p776
+I1
+sS"['a', 'profit']"
+p777
+I1
+sS"['of', 'moria']"
+p778
+I1
+sS"['computer', 'criminal']"
+p779
 I1
 s.

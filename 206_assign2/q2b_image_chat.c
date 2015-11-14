@@ -154,6 +154,7 @@ int main(int argc, char *argv[]){
 		return 1;
 	}	
 
+<<<<<<< HEAD
 	char decoded_message[1000];
 	strcpy(decoded_message, decodeMessage( inputFileName ));
 
@@ -163,12 +164,17 @@ int main(int argc, char *argv[]){
 	else{
 		printf("Recieved: %s\n",decoded_message);
 	}
+=======
+	char *decoded_message = decodeMessage( inputFileName );
+	printf("Recieved: %s\n",decoded_message);
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 
 	while(1){
 		if (reading==1){
 			//printf("In a reading phase\n");
 			while(reading==1){
 				char *msg = decodeMessage( inputFileName );
+<<<<<<< HEAD
 				//printf("Read msg: %s\n", msg);
 				//printf("Prev: %s\n", decoded_message);
 
@@ -178,6 +184,14 @@ int main(int argc, char *argv[]){
 					reading=0;
 				}
 				sleep(1);
+=======
+				if( strcmp(decoded_message,msg) != 0){
+					printf("Recieved %s\n", msg);
+					decoded_message = msg;
+					reading=0;
+				}
+				
+>>>>>>> 6839f91a1c562c3013d3da0134b8dbde8ca87847
 			}
 		}
 		else{
