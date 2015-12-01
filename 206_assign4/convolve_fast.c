@@ -16,6 +16,7 @@ int get_byte_size_of_file(FILE* f){
     int read_code;
     int nob=0;
     while( (read_code = fgetc(f) ) != EOF ){
+        //printf("%ld\n", (long int) &f );
         nob+=1;
     }
     return nob;
@@ -36,48 +37,49 @@ void debug(char* s){
 
 int main(int argc, char* argv[]){      
     if (argc < 5){ 
-        printf("Not enough arguments, at least 4 must be provided (input_image, output_image, filter_width, filter_eights)");
+        printf("Not enough arguments, at least 4 must be provided (input_image, output_image, filter_width, filter_weights)");
         return 1; 
     }
     FILE* input_image = fopen(argv[1],"rb");
     if (input_image == NULL){
         printf("Input image not found!\n");
         return 1;
-    } 
-    //custom reading
-    int nbi = get_byte_size_of_file(input_image);  
-    
-    char* chars_read = (char*) malloc( sizeof(char)*(nbi+1) );
-    read_char_array_from_file(input_image, nbi, chars_read);     
-    chars_read[nbi] = '\0';
-    
-    //With stdio
-    //char* chars_read = NULL;
-    //fseek(input_image, 0, SEEK_END);
-    //int nbi = ftell(input_image);
-    //rewind(fp);
-    //chars_read = (char*) malloc( (nbi+1)*sizeof(char) );
-    //fread(chars_read, nbi, input_image);
-    //chars_read[nbi] = '\0';
-
+    }
     FILE* output_image = fopen(argv[2], "wb+");
-    char* output_chars = (char*) malloc( sizeof(char)*(nbi+1) );   
- 
-    int filter_width = atoi(argv[3]);
+    
+    //########## Custom char loading (for fun) ########## 
+    int nbi = get_byte_size_of_file(input_image);
+    fseek(input_image, 0, SEEK_SET);  
+    char chars_read[nbi];
+    read_char_array_from_file(input_image, nbi, chars_read);     
+    
+    ///########## Built-in char loading (no fun) ########## 
+    /*
+    char* chars_read = NULL;
+    fseek(input_image, 0, SEEK_END);
+    int nbi = ftell(input_image);
+    rewind(input_image);
+    chars_read[nbi];
+    fread(chars_read, sizeof(char), nbi, input_image);
+    */
   
-    float* filter_weights = (float*) malloc(sizeof(float)*filter_width*filter_width);
+    char output_chars[nbi]; 
+
+    int filter_width = atoi(argv[3]);
+    int num_weights = filter_width * filter_width;
+    if( (argc-4) != num_weights ){
+        printf("Not enough filter weights!\n");
+        return 1;
+    }
+
+    float filter_weights[filter_width*filter_width];
+ 
     seperated_str_to_float_array(argv, filter_weights, 4, filter_width);    
     
-    printf("The number of bytes to write, filterwidth: %d %d\n", nbi, filter_width);
-    debug("about to filter");
     doFiltering(chars_read, filter_weights, filter_width, output_chars);
-    debug("filter done");
     
-    fwrite(output_chars, 1, nbi+1, output_image); 
-
-    free(chars_read);
-    free(output_chars);
-    free(filter_weights);
+    fwrite(output_chars, 1, nbi, output_image); 
+    fputc('\0', output_image);
 
     fclose(input_image);
     fclose(output_image);

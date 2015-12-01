@@ -2,6 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 
+void dbg(char* m){
+    int d;
+    printf("%s\n", m);
+    scanf("%d", &d);
+}
+
 // Function doFiltering. See the header fast_filter.h for details
 void doFiltering( unsigned char* img_data, float* filter_weights,       
                   int filter_width,        unsigned char* out_img_data )
